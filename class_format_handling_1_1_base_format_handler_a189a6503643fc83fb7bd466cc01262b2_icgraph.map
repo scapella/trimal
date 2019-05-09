@@ -1,0 +1,10 @@
+<map id="FormatHandling::BaseFormatHandler::SaveAlignment" name="FormatHandling::BaseFormatHandler::SaveAlignment">
+<area shape="rect" id="node2" href="$class_format_handling_1_1_format_manager.html#af8d1e7864bb2811199d26ff24a30440e" title="Function to save an alignment to a file. It searches among the available_states one that can write th..." alt="" coords="247,39,460,80"/>
+<area shape="rect" id="node3" href="$class_format_handling_1_1_format_manager.html#a084d6b423e40a6d53ab3f4413f3f9176" title="Function to save an alignment to a file. It searches among the available_states one that can write th..." alt="" coords="510,71,723,112"/>
+<area shape="rect" id="node9" href="$class_format_handling_1_1_format_manager.html#a853678a6e07f67da8cf7b77795b297be" title="Function that takes multiple files, loads them and saves in a cumulus of formats, using an outPattern..." alt="" coords="508,5,725,47"/>
+<area shape="rect" id="node4" href="$read_al_main_8cpp.html#a0ddf1224851353fc92bfbff6f499fa97" title="main" alt="" coords="819,17,870,43"/>
+<area shape="rect" id="node5" href="$classtrim_al_manager.html#a7ba38127fa10c926b96c60250b80d2b7" title="trimAlManager::save\l_alignment" alt="" coords="773,71,916,112"/>
+<area shape="rect" id="node6" href="$classtrim_al_manager.html#a7c641a1feff33d401b4ea5c82e989289" title="trimAlManager::innerPerform" alt="" coords="964,78,1152,105"/>
+<area shape="rect" id="node7" href="$classtrim_al_manager.html#abe8d2841455c644dc9c7d1294b82b00f" title="Method to perform the analysis if all checks have passed. " alt="" coords="1200,78,1359,105"/>
+<area shape="rect" id="node8" href="$trim_al_main_8cpp.html#a0ddf1224851353fc92bfbff6f499fa97" title="main" alt="" coords="1407,78,1457,105"/>
+</map>

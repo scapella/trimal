@@ -1,0 +1,23 @@
+<map id="Cleaner::cleanNoAllGaps" name="Cleaner::cleanNoAllGaps">
+<area shape="rect" id="node2" href="$classstatistics_1_1_manager.html#a1969a416d3020d25daa56de6c5e305db" title="Method to handle gap stat calculation It checks if the gaps submodule has been created, otherwise, creates it. " alt="" coords="242,70,379,111"/>
+<area shape="rect" id="node9" href="$class_cleaner.html#a13ae2074afb38708bc5cee9489d8ab6f" title="Method to clean an alignment. &#160;It removes sequences that overpass or equals a certain threshold..." alt="" coords="223,321,399,362"/>
+<area shape="rect" id="node21" href="$classstatistics_1_1_gaps.html#ab5b60db326475f8adc68b130e22b3963" title="statistics::Gaps::getGaps\lWindow" alt="" coords="225,161,396,202"/>
+<area shape="rect" id="node3" href="$classstatistics_1_1_gaps.html#a2f1d71bafa5e44e5f2c96771cf2a26ed" title="statistics::Gaps::Gaps" alt="" coords="471,5,625,32"/>
+<area shape="rect" id="node5" href="$classstatistics_1_1_gaps.html#aa3526494d5100e062daa4afba755d0b1" title="statistics::Gaps::Calculate\lVectors" alt="" coords="459,57,637,98"/>
+<area shape="rect" id="node6" href="$classstatistics_1_1_gaps.html#aee36b772767467cdba2061df2305e85d" title="statistics::Gaps::applyWindow" alt="" coords="448,123,648,149"/>
+<area shape="rect" id="node4" href="$namespaceutils.html#aac322cd1761fddedec8a5792e358eb32" title="Vector initialization. " alt="" coords="728,35,829,61"/>
+<area shape="rect" id="node7" href="$classreporting_1_1report_manager.html#a6d122e673144584e0869bd33b8a5c1c6" title="Method to report an Error. &#160;It will be displayed if Level &#160;is equal or higher to VerboseLevel::ERROR..." alt="" coords="697,115,860,157"/>
+<area shape="rect" id="node8" href="$namespaceutils.html#ad50731aeb3c8f79ed8372516210dfc9d" title="Round double to integer method. " alt="" coords="728,185,829,212"/>
+<area shape="rect" id="node10" href="$class_alignment.html#aeeee94970a445f32aa79646c249befef" title="Copy Constructor. &#160;&#160;The copy constructor does not make a copy of all structures present on the origin..." alt="" coords="475,291,621,317"/>
+<area shape="rect" id="node16" href="$namespaceutils.html#a3ff3252e3c5d743757b001734501fe60" title="Quicksort sorting method. " alt="" coords="495,365,601,392"/>
+<area shape="rect" id="node18" href="$class_cleaner.html#ada8ad076dd037f00ae3f4fd17762641f" title="Method that identifies and removes columns and sequences composed only by gaps. " alt="" coords="451,417,645,458"/>
+<area shape="rect" id="node20" href="$class_cleaner.html#a5620f6a511bc0ac844c71b2de3ae1fdb" title="Method to remove blocks of columns with no rejected residue smaller than a given size. " alt="" coords="447,483,649,509"/>
+<area shape="rect" id="node11" href="$class_cleaner.html#afe42cb635ddd6bd968ae57e378deaac8" title="Copy Constructor &#45; Called by Alignment. " alt="" coords="719,244,839,271"/>
+<area shape="rect" id="node12" href="$classstatistics_1_1_manager.html#aee28602da015edb0880d59ce4c0f855d" title="statistics::Manager\l::Manager" alt="" coords="712,295,845,337"/>
+<area shape="rect" id="node13" href="$classstatistics_1_1_similarity.html#afecab92459785c7568511217969f6cde" title="statistics::Similarity\l::Similarity" alt="" coords="917,230,1055,271"/>
+<area shape="rect" id="node14" href="$classstatistics_1_1_consistency.html#ae39d2aae825d263ac8c3198782b824d2" title="Copy constructor. " alt="" coords="908,295,1064,337"/>
+<area shape="rect" id="node15" href="$classstatistics_1_1_gaps.html#a0233d71123523698b0bbf6fe6119b630" title="statistics::Gaps::Gaps" alt="" coords="909,361,1063,388"/>
+<area shape="rect" id="node17" href="$namespaceutils.html#a5edf67302e70aeb92a9085023954f368" title="Swapping elements method. " alt="" coords="736,365,821,392"/>
+<area shape="rect" id="node19" href="$classreporting_1_1report_manager.html#a75a240a78f31ba479892a9a0f53996fa" title="Method to report a Warning. &#160;It will be displayed if Level &#160;is equal or higher to VerboseLevel::WARNI..." alt="" coords="697,417,860,458"/>
+<area shape="rect" id="node22" href="$classstatistics_1_1_gaps.html#ad812a924cf5e3f900aad3ed4a9664300" title="statistics::Gaps::isDefined\lWindow" alt="" coords="459,174,637,215"/>
+</map>

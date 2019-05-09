@@ -1,0 +1,5 @@
+<map id="Alignment::calculateSeqOverlap" name="Alignment::calculateSeqOverlap">
+<area shape="rect" id="node1" title="Calculates overlap between sequences." alt="" coords="5,5,213,32"/>
+<area shape="rect" id="node2" href="$class_alignment.html#a1bc7622776f3935f6cb9d3c895e43a29" title="Alignment type getter. &#160;&#160;See SequenceTypes." alt="" coords="261,5,455,32"/>
+<area shape="rect" id="node3" href="$namespaceutils.html#aab52f9515717f06cafd6ab7fe2ebdcef" title="Checks an alignment type." alt="" coords="503,5,679,32"/>
+</map>

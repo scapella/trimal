@@ -1,0 +1,12 @@
+<map id="FormatHandling::BaseFormatHandler::LoadAlignment" name="FormatHandling::BaseFormatHandler::LoadAlignment">
+<area shape="rect" id="node2" href="$class_format_handling_1_1_format_manager.html#a057615a4fa5e9644a81540ba526725a6" title="Function that loads an alignment given a file path. It automatically detects the format of the file..." alt="" coords="247,152,460,193"/>
+<area shape="rect" id="node3" href="$class_format_handling_1_1_format_manager.html#a853678a6e07f67da8cf7b77795b297be" title="Function that takes multiple files, loads them and saves in a cumulus of formats, using an outPattern..." alt="" coords="508,5,725,47"/>
+<area shape="rect" id="node4" href="$read_al_main_8cpp.html#a0ddf1224851353fc92bfbff6f499fa97" title="main" alt="" coords="863,42,913,69"/>
+<area shape="rect" id="node5" href="$classstatistics_1_1_consistency.html#a8f7ddf54c5be583916b983ede82d5b88" title="Method to compare a set of MSA, all containing the same sequences and residues. The number of residue..." alt="" coords="539,123,695,164"/>
+<area shape="rect" id="node9" href="$classtrim_al_manager.html#a9580aa82de8aba6794647a36c0416a33" title="Method to parse the input file argument. " alt="" coords="795,181,981,207"/>
+<area shape="rect" id="node10" href="$classtrim_al_manager.html#a63dad1ad106b0fa09351cd5981b37aeb" title="Method to parse the force select argument. " alt="" coords="817,232,959,273"/>
+<area shape="rect" id="node11" href="$classtrim_al_manager.html#ae49bc2cb7f90419296da65a23df39c8d" title="Method to parse the backtranslation argument. " alt="" coords="545,291,688,332"/>
+<area shape="rect" id="node6" href="$classtrim_al_manager.html#a12b7cef964ef258fe7621da44867c51f" title="Method to check if multiple files comparison has been set correctly. It also perform some calculation..." alt="" coords="773,130,1003,157"/>
+<area shape="rect" id="node7" href="$classtrim_al_manager.html#af3b0625b6bcc6df5978e63530a5956e6" title="Method to parse arguments into usable structure in trimal. " alt="" coords="1051,210,1260,237"/>
+<area shape="rect" id="node8" href="$trim_al_main_8cpp.html#a0ddf1224851353fc92bfbff6f499fa97" title="main" alt="" coords="1308,210,1359,237"/>
+</map>

@@ -1,0 +1,20 @@
+<map id="utils::isNumber" name="utils::isNumber">
+<area shape="rect" id="node2" href="$classtrim_al_manager.html#a6dfa0264ed2e3cdfea4324a3582d5d4a" title="Method to parse the Block Size argument. " alt="" coords="185,5,331,47"/>
+<area shape="rect" id="node5" href="$classtrim_al_manager.html#adfadb6051b5e3bba6889fc8bbfde20bc" title="Method to parse the clusters argument. " alt="" coords="178,71,338,112"/>
+<area shape="rect" id="node6" href="$classtrim_al_manager.html#a3d8d62807179a223bd659971f51d900c" title="Method to parse the similarity threshold argument. " alt="" coords="164,136,352,177"/>
+<area shape="rect" id="node7" href="$classtrim_al_manager.html#a3cd2a65078631dee92d1f7569bcf55bf" title="Method to parse the consistency threshold argument. " alt="" coords="166,201,350,243"/>
+<area shape="rect" id="node8" href="$classtrim_al_manager.html#aca45dce846182c57b730b1884327d588" title="Method to parse the Consistency Window argument. " alt="" coords="166,267,350,308"/>
+<area shape="rect" id="node9" href="$classtrim_al_manager.html#ac6a2d3ac0ca35a96cc586eb1bcd138cc" title="Method to parse the gap threshold argument. " alt="" coords="187,332,329,373"/>
+<area shape="rect" id="node10" href="$classtrim_al_manager.html#a5980320bab9dad57cf8f58e15a776b9a" title="Method to parse the Gap Window argument. " alt="" coords="191,397,325,439"/>
+<area shape="rect" id="node11" href="$main_8cpp.html#a0ddf1224851353fc92bfbff6f499fa97" title="main" alt="" coords="233,463,283,490"/>
+<area shape="rect" id="node12" href="$classtrim_al_manager.html#a43b9d013ea8453535b6f364d4afd0a36" title="Method to parse the max identity argument. " alt="" coords="189,515,327,556"/>
+<area shape="rect" id="node13" href="$classtrim_al_manager.html#a946f291e48402de5803bddf904591de7" title="trimAlManager::min\l_coverage_argument" alt="" coords="187,580,329,621"/>
+<area shape="rect" id="node14" href="$classtrim_al_manager.html#ab669ef860babef0af7377465f9178cc3" title="trimAlManager::min\l_quality_argument" alt="" coords="191,645,325,687"/>
+<area shape="rect" id="node15" href="$classtrim_al_manager.html#ab92c44fda5068eab3f12312f377d5909" title="Method to parse the residue overlap argument. " alt="" coords="180,711,336,752"/>
+<area shape="rect" id="node16" href="$classtrim_al_manager.html#ab69c55b2d18c7d942284e99c880e0dd0" title="Method to parse the sequence overlap argument. " alt="" coords="173,776,343,817"/>
+<area shape="rect" id="node17" href="$classtrim_al_manager.html#a95d1baa681d37e184671ea3864c48b8e" title="Method to parse the similarity threshold argument. " alt="" coords="175,841,341,883"/>
+<area shape="rect" id="node18" href="$classtrim_al_manager.html#a2f7ba69e1fbc41fbd1961bbb45af89f4" title="Method to parse the Similarity Window argument. " alt="" coords="175,907,341,948"/>
+<area shape="rect" id="node19" href="$classtrim_al_manager.html#afb1bf3ae0e2d94723148fc230f3a4593" title="Method to parse the Window argument. " alt="" coords="179,972,337,1013"/>
+<area shape="rect" id="node3" href="$classtrim_al_manager.html#af3b0625b6bcc6df5978e63530a5956e6" title="Method to parse arguments into usable structure in trimal. " alt="" coords="400,522,609,549"/>
+<area shape="rect" id="node4" href="$trim_al_main_8cpp.html#a0ddf1224851353fc92bfbff6f499fa97" title="main" alt="" coords="657,522,708,549"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="trimAlManager::help_arguments" name="trimAlManager::help_arguments">
+<area shape="rect" id="node2" href="$classtrim_al_manager.html#a5716d2e2a6d21b7f2bacbf284b5bd75b" title="Method to show the examples information about the program. " alt="" coords="192,5,363,32"/>
+<area shape="rect" id="node3" href="$class_format_handling_1_1_format_manager.html#a26efd9eda445c35881b0068605480820" title="Function to obtain all format names available by this object that can load an alignment. " alt="" coords="411,41,624,82"/>
+<area shape="rect" id="node4" href="$class_format_handling_1_1_format_manager.html#ac5420f40d118f2ca768cb52c5635a9e7" title="Function to obtain all format names available by this object that can save an alignment. " alt="" coords="411,158,624,199"/>
+<area shape="rect" id="node5" href="$classtrim_al_manager.html#a09d07645fa0057989875f2b2d25ec4d7" title="Method to show the menu of the program. " alt="" coords="204,107,351,133"/>
+<area shape="rect" id="node6" href="$namespaceutils.html#a6000246220e801bf6b1e6a553d7af13a" title="Function that replaces a substring with another substring in a string. It does not make a copy of the..." alt="" coords="427,107,607,133"/>
+</map>

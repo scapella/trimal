@@ -1,0 +1,4 @@
+<map id="Alignment::fillMatrices" name="Alignment::fillMatrices">
+<area shape="rect" id="node1" title="Method to initialize matrices and check if the sequences have been correctly loaded and are free of e..." alt="" coords="5,13,156,39"/>
+<area shape="rect" id="node2" href="$classreporting_1_1report_manager.html#a6d122e673144584e0869bd33b8a5c1c6" title="Method to report an Error. &#160;It will be displayed if Level &#160;is equal or higher to VerboseLevel::ERROR." alt="" coords="204,5,367,47"/>
+</map>

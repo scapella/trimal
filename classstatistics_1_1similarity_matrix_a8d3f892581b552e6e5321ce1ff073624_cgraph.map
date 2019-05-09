@@ -1,0 +1,6 @@
+<map id="statistics::similarityMatrix::loadSimMatrix" name="statistics::similarityMatrix::loadSimMatrix">
+<area shape="rect" id="node2" href="$namespaceutils.html#aac322cd1761fddedec8a5792e358eb32" title="Vector initialization. " alt="" coords="259,5,360,32"/>
+<area shape="rect" id="node3" href="$classstatistics_1_1similarity_matrix.html#a46d6657734fa07a8c7ee3bbee8145c2c" title="Method to allocate memory for the similiarity matrix. " alt="" coords="224,57,395,98"/>
+<area shape="rect" id="node4" href="$classstatistics_1_1similarity_matrix.html#a3f33f4b18bb1da1887ba666c74bf9a47" title="Method to deallocate memory allocated on the similarityMatrix::memoryAllocation method. It makes use of the numPositions to effectively remove the memory. " alt="" coords="443,86,613,127"/>
+<area shape="rect" id="node5" href="$namespaceutils.html#a2b86d1a439de68860f2366f99d507349" title="Removing spaces method. " alt="" coords="239,173,380,200"/>
+</map>

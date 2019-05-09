@@ -1,0 +1,25 @@
+var classstatistics_1_1_consistency =
+[
+    [ "Consistency", "classstatistics_1_1_consistency.html#ae39d2aae825d263ac8c3198782b824d2", null ],
+    [ "Consistency", "classstatistics_1_1_consistency.html#a754c5c0b4ea3b3a20f80a6357f595f16", null ],
+    [ "~Consistency", "classstatistics_1_1_consistency.html#a794056a7cdcb77ed64d5ca9650ddb367", null ],
+    [ "applyWindow", "classstatistics_1_1_consistency.html#a6fe619f559c7271eedd869581684f479", null ],
+    [ "compareAndChoose", "classstatistics_1_1_consistency.html#a35c4f5aab5ad2e8d4722f07b17b9dbd2", null ],
+    [ "forceComparison", "classstatistics_1_1_consistency.html#a12d0b624abec361767bd3a6001998f02", null ],
+    [ "getValues", "classstatistics_1_1_consistency.html#ad3a0a265cb9460cd4633b027fe2437c9", null ],
+    [ "isWindowDefined", "classstatistics_1_1_consistency.html#af2c3e79d22ab32c549e3e41cd56afe72", null ],
+    [ "perform", "classstatistics_1_1_consistency.html#a8f7ddf54c5be583916b983ede82d5b88", null ],
+    [ "printStatisticsFileAcl", "classstatistics_1_1_consistency.html#a24521eba253b76ddc60c719c9769613a", null ],
+    [ "printStatisticsFileColumns", "classstatistics_1_1_consistency.html#a641c9cc5f44f7cdc0a48dad576c07fb1", null ],
+    [ "alig", "classstatistics_1_1_consistency.html#aa89b153b391a4b67b6947be1c8c4ffa5", null ],
+    [ "appearErrors", "classstatistics_1_1_consistency.html#ab23198685de339df830ec7709b25440a", null ],
+    [ "compareAlignmentsArray", "classstatistics_1_1_consistency.html#a70382602924e6723f0db24bd7dc6ffbc", null ],
+    [ "halfWindow", "classstatistics_1_1_consistency.html#a27b634f115d5cb8c9f2867b02fc4a9ac", null ],
+    [ "i", "classstatistics_1_1_consistency.html#ad792ec1f2d1771f437ee63dd5b6f4c1f", null ],
+    [ "maxResidues", "classstatistics_1_1_consistency.html#a8ba9067ebaae38f425622138c44503b1", null ],
+    [ "numFiles", "classstatistics_1_1_consistency.html#a54dbfd79181f074b748aed43eaa53f47", null ],
+    [ "refCounter", "classstatistics_1_1_consistency.html#ae854b04fdfd516836a7c4a397a033df4", null ],
+    [ "residues", "classstatistics_1_1_consistency.html#aa356c6d0ed3e37e34e8e883c9e90ca71", null ],
+    [ "values", "classstatistics_1_1_consistency.html#a4df24dc7af37ddf46febe914545c8322", null ],
+    [ "values_windowed", "classstatistics_1_1_consistency.html#a5dd04b6ea8d01e6def5725904b1a85ce", null ]
+];

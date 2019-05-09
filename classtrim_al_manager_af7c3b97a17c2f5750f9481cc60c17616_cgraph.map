@@ -1,0 +1,7 @@
+<map id="trimAlManager::check_output_format" name="trimAlManager::check_output_format">
+<area shape="rect" id="node2" href="$class_format_handling_1_1_format_manager.html#ad31c39b979311f79dda3f2ae097b5625" title="Function to obtain the format name of a given file. " alt="" coords="203,64,416,105"/>
+<area shape="rect" id="node3" href="$class_format_handling_1_1_format_manager.html#a850c827a60ae4ee1e5bb34b7485f0412" title="FormatHandling::FormatManager\l::getFormatFromFile" alt="" coords="464,64,677,105"/>
+<area shape="rect" id="node4" href="$class_format_handling_1_1_format_manager.html#a0b032188aa2d883026e547ea665c9b45" title="FormatHandling::FormatManager\l::getNonEmptyFile" alt="" coords="725,5,939,47"/>
+<area shape="rect" id="node5" href="$classreporting_1_1report_manager.html#ab093ae2e909308ebb4118d6f6a03f5fd" title="Method to report an Error. It will be displayed if Level &#160;is equal or higher to VerboseLevel::ERROR. " alt="" coords="987,35,1149,76"/>
+<area shape="rect" id="node6" href="$class_format_handling_1_1_base_format_handler.html#a6186050eb30aec3f4fa7e1c834f2add1" title="Function to check if a file is in the implemented format. " alt="" coords="735,123,929,164"/>
+</map>

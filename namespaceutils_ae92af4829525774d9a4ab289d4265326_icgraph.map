@@ -1,0 +1,9 @@
+<map id="utils::lookForPattern" name="utils::lookForPattern">
+<area shape="rect" id="node2" href="$namespaceutils.html#abdd283983860dbf73351209d1e8ab87f" title="Checks the color that has to be used on the output report. " alt="" coords="192,31,335,57"/>
+<area shape="rect" id="node3" href="$class_alignment.html#a3754dfadea173918f5e85b9eb4c3ad8a" title="Method to report the trimming results in HTML. Outputs an HTML file that shows visually what has been..." alt="" coords="383,5,619,32"/>
+<area shape="rect" id="node8" href="$class_alignment.html#ac4196c026e0f482eaccf9976f82f72e3" title="Method to report the trimming results in SVG. Outputs a SVG file that shows visually what has been do..." alt="" coords="387,56,615,83"/>
+<area shape="rect" id="node4" href="$classtrim_al_manager.html#a1da8f8b677f19ed8f7e08a663d97bb92" title="trimAlManager::output\l_reports" alt="" coords="667,23,817,65"/>
+<area shape="rect" id="node5" href="$classtrim_al_manager.html#a7c641a1feff33d401b4ea5c82e989289" title="trimAlManager::innerPerform" alt="" coords="865,31,1053,57"/>
+<area shape="rect" id="node6" href="$classtrim_al_manager.html#abe8d2841455c644dc9c7d1294b82b00f" title="Method to perform the analysis if all checks have passed. " alt="" coords="1101,31,1260,57"/>
+<area shape="rect" id="node7" href="$trim_al_main_8cpp.html#a0ddf1224851353fc92bfbff6f499fa97" title="main" alt="" coords="1308,31,1359,57"/>
+</map>

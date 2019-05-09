@@ -1,0 +1,9 @@
+<map id="FormatHandling::FormatManager::loadAndSaveMultipleAlignments" name="FormatHandling::FormatManager::loadAndSaveMultipleAlignments">
+<area shape="rect" id="node2" href="$class_format_handling_1_1_base_format_handler.html#a6186050eb30aec3f4fa7e1c834f2add1" title="Function to check if a file is in the implemented format. " alt="" coords="283,5,476,47"/>
+<area shape="rect" id="node3" href="$class_format_handling_1_1_base_format_handler.html#acb1e7d713993916bb7b7b8c8ebebb922" title="Function to load a file in the current format and return an alignment object. " alt="" coords="283,71,476,112"/>
+<area shape="rect" id="node4" href="$class_format_handling_1_1_base_format_handler.html#aa0f5f11e0cd33bb59a1c7b4847eb7ee9" title="Function that recognizes acronyms of the format. " alt="" coords="271,136,488,177"/>
+<area shape="rect" id="node5" href="$namespaceutils.html#ab0cb109dc7e12b42abd4cba86f7d8e78" title="Function that replaces a substring with another substring in a string. It makes a copy of the origina..." alt="" coords="311,202,447,229"/>
+<area shape="rect" id="node6" href="$namespaceutils.html#a6000246220e801bf6b1e6a553d7af13a" title="Function that replaces a substring with another substring in a string. It does not make a copy of the..." alt="" coords="289,253,469,279"/>
+<area shape="rect" id="node7" href="$classreporting_1_1report_manager.html#abc8beece0a415330af73749d14fb5ccb" title="Method to report an Error. It will be displayed if Level &#160;is equal or higher to VerboseLevel::ERROR. " alt="" coords="298,304,461,345"/>
+<area shape="rect" id="node8" href="$class_format_handling_1_1_base_format_handler.html#aa03ef111d21f6d200bb7dfbbc6b87eca" title="Function to save a Alignment to a file. " alt="" coords="283,369,476,411"/>
+</map>

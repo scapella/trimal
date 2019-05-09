@@ -1,0 +1,26 @@
+var class_format_handling_1_1_format_manager =
+[
+    [ "FormatManager", "class_format_handling_1_1_format_manager.html#aece519995c108c0cc400d61360389834", null ],
+    [ "~FormatManager", "class_format_handling_1_1_format_manager.html#a7698d61acbc18ac27cd127a3ce0b3fe4", null ],
+    [ "addState", "class_format_handling_1_1_format_manager.html#a5e711329ff62a4a2f80de82dbf211c1c", null ],
+    [ "getFileFormatName", "class_format_handling_1_1_format_manager.html#ad31c39b979311f79dda3f2ae097b5625", null ],
+    [ "getFormatFromFile", "class_format_handling_1_1_format_manager.html#a850c827a60ae4ee1e5bb34b7485f0412", null ],
+    [ "getFormatFromToken", "class_format_handling_1_1_format_manager.html#ac0a3cee8e52e9ef5c61188094dd50bf2", null ],
+    [ "getInputFormatsAvailable", "class_format_handling_1_1_format_manager.html#a26efd9eda445c35881b0068605480820", null ],
+    [ "getNonEmptyFile", "class_format_handling_1_1_format_manager.html#a0b032188aa2d883026e547ea665c9b45", null ],
+    [ "getOutputFormatsAvailable", "class_format_handling_1_1_format_manager.html#ac5420f40d118f2ca768cb52c5635a9e7", null ],
+    [ "loadAlignment", "class_format_handling_1_1_format_manager.html#a057615a4fa5e9644a81540ba526725a6", null ],
+    [ "loadAndSaveMultipleAlignments", "class_format_handling_1_1_format_manager.html#a853678a6e07f67da8cf7b77795b297be", null ],
+    [ "replaceINtag", "class_format_handling_1_1_format_manager.html#a04370e2eae3630aab799320268b70176", null ],
+    [ "saveAlignment", "class_format_handling_1_1_format_manager.html#a084d6b423e40a6d53ab3f4413f3f9176", null ],
+    [ "saveAlignments", "class_format_handling_1_1_format_manager.html#af8d1e7864bb2811199d26ff24a30440e", null ],
+    [ "splitAlignmentKeeping", "class_format_handling_1_1_format_manager.html#a6ca3a3864ce03fa917629d815df1f246", null ],
+    [ "available_states", "class_format_handling_1_1_format_manager.html#aeba4f74be86a87629c922d5ec67eae1a", null ],
+    [ "format", "class_format_handling_1_1_format_manager.html#ac3c27f342858641030f261e2706b93cf", null ],
+    [ "hasOutputFile", "class_format_handling_1_1_format_manager.html#a7febced751ac754aaf27e7d509542866", null ],
+    [ "info", "class_format_handling_1_1_format_manager.html#a6bb174d766e3c247b0f0a4d845cc3061", null ],
+    [ "keepHeader", "class_format_handling_1_1_format_manager.html#abd46d84ab15e21826b1611c3bde861c1", null ],
+    [ "openmode", "class_format_handling_1_1_format_manager.html#a883abfcc1f1e9104ac154c787b149929", null ],
+    [ "reverse", "class_format_handling_1_1_format_manager.html#a136f580bee43fc58256fd53e411f5895", null ],
+    [ "type", "class_format_handling_1_1_format_manager.html#af84d745a9210cc1b84675a4ad82eeb63", null ]
+];

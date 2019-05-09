@@ -1,0 +1,7 @@
+<map id="Alignment::printSeqIdentity" name="Alignment::printSeqIdentity">
+<area shape="rect" id="node1" title="Method to print different identity values computed from the alignment. In this method we assess the i..." alt="" coords="5,31,184,57"/>
+<area shape="rect" id="node2" href="$class_cleaner.html#a65d829578be97c192561a129435b3c58" title="Method to calculate identities between the sequences from the alignment. See Alignment::identities." alt="" coords="232,5,425,32"/>
+<area shape="rect" id="node5" href="$namespaceutils.html#a40640e1942f00797e9fe8284e8fbdb14" title="Maximum of two numbers method." alt="" coords="289,56,368,83"/>
+<area shape="rect" id="node3" href="$class_alignment.html#a1bc7622776f3935f6cb9d3c895e43a29" title="Alignment type getter. &#160;&#160;See SequenceTypes." alt="" coords="473,5,667,32"/>
+<area shape="rect" id="node4" href="$namespaceutils.html#aab52f9515717f06cafd6ab7fe2ebdcef" title="Checks an alignment type." alt="" coords="715,5,891,32"/>
+</map>

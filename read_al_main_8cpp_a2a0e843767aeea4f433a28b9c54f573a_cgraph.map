@@ -1,0 +1,6 @@
+<map id="menu" name="menu">
+<area shape="rect" id="node2" href="$class_format_handling_1_1_format_manager.html#aece519995c108c0cc400d61360389834" title="FormatHandling::FormatManager\l::FormatManager" alt="" coords="108,5,321,47"/>
+<area shape="rect" id="node4" href="$class_format_handling_1_1_format_manager.html#a26efd9eda445c35881b0068605480820" title="Function to obtain all format names available by this object that can load an alignment. " alt="" coords="108,71,321,112"/>
+<area shape="rect" id="node5" href="$class_format_handling_1_1_format_manager.html#ac5420f40d118f2ca768cb52c5635a9e7" title="Function to obtain all format names available by this object that can save an alignment. " alt="" coords="108,136,321,177"/>
+<area shape="rect" id="node3" href="$class_format_handling_1_1_format_manager.html#a5e711329ff62a4a2f80de82dbf211c1c" title="Function that adds a newState to the FormatManager::available_states vector. &#160;This should be called o..." alt="" coords="369,5,583,47"/>
+</map>

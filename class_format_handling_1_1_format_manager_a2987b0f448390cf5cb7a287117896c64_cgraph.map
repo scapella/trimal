@@ -1,0 +1,7 @@
+<map id="FormatHandling::FormatManager::saveAlignment" name="FormatHandling::FormatManager::saveAlignment">
+<area shape="rect" id="node2" href="$class_format_handling_1_1_base_format_handler.html#aa0f5f11e0cd33bb59a1c7b4847eb7ee9" title="Function that recognizes acronyms of the format. " alt="" coords="267,5,484,47"/>
+<area shape="rect" id="node3" href="$namespaceutils.html#ab0cb109dc7e12b42abd4cba86f7d8e78" title="Function that replaces a substring with another substring in a string. It makes a copy of the origina..." alt="" coords="307,71,443,98"/>
+<area shape="rect" id="node4" href="$namespaceutils.html#a6000246220e801bf6b1e6a553d7af13a" title="Function that replaces a substring with another substring in a string. It does not make a copy of the..." alt="" coords="285,122,465,149"/>
+<area shape="rect" id="node5" href="$classreporting_1_1report_manager.html#a6d122e673144584e0869bd33b8a5c1c6" title="Method to report an Error. &#160;It will be displayed if Level &#160;is equal or higher to VerboseLevel::ERROR..." alt="" coords="294,173,457,215"/>
+<area shape="rect" id="node6" href="$class_format_handling_1_1_base_format_handler.html#aa03ef111d21f6d200bb7dfbbc6b87eca" title="Function to save a Alignment to a file. " alt="" coords="279,239,472,280"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="trimAlManager::check_output_file_with_statistics" name="trimAlManager::check_output_file_with_statistics">
+<area shape="rect" id="node2" href="$classtrim_al_manager.html#a3f325b806727751394adb829d97b35f1" title="Method that checks dependencies between arguments. Take in mind that dependencies may be between mult..." alt="" coords="233,5,383,47"/>
+<area shape="rect" id="node3" href="$classtrim_al_manager.html#a748b08a1ec5cd214de804ed0d4234a6e" title="Method to process the information obtained by trimAlManager::parseArguments It checks for argument in..." alt="" coords="431,13,653,39"/>
+<area shape="rect" id="node4" href="$trim_al_main_8cpp.html#a0ddf1224851353fc92bfbff6f499fa97" title="main" alt="" coords="701,13,752,39"/>
+</map>

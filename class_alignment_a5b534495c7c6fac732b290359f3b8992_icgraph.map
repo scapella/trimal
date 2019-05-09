@@ -1,0 +1,15 @@
+<map id="Alignment::getNumAminos" name="Alignment::getNumAminos">
+<area shape="rect" id="node2" href="$classtrim_al_manager.html#a1b39cb8f30d914ee709305bf9fc12a2a" title="Method to check if the block size is bigger than allowed depending on size of alignment. " alt="" coords="259,5,408,47"/>
+<area shape="rect" id="node6" href="$classtrim_al_manager.html#aebfd21b0435302f0e4fc45a068d1b6ee" title="Method to trim the alignment using non automatic methods: " alt="" coords="232,71,435,112"/>
+<area shape="rect" id="node10" href="$classstatistics_1_1_consistency.html#a35c4f5aab5ad2e8d4722f07b17b9dbd2" title="Method to compare a set of alignments to select the most consistent one respect the others..." alt="" coords="255,136,411,177"/>
+<area shape="rect" id="node11" href="$classstatistics_1_1_consistency.html#a8f7ddf54c5be583916b983ede82d5b88" title="Method to compare a set of MSA, all containing the same sequences and residues. The number of residue..." alt="" coords="483,165,639,207"/>
+<area shape="rect" id="node14" href="$classstatistics_1_1_consistency.html#a12d0b624abec361767bd3a6001998f02" title="Method to obtain the consistency values vector for a given alignment against a set of alignments with..." alt="" coords="255,253,411,295"/>
+<area shape="rect" id="node3" href="$classtrim_al_manager.html#a3f325b806727751394adb829d97b35f1" title="Method that checks dependencies between arguments. Take in mind that dependencies may be between mult..." alt="" coords="486,5,635,47"/>
+<area shape="rect" id="node4" href="$classtrim_al_manager.html#a748b08a1ec5cd214de804ed0d4234a6e" title="Method to process the information obtained by trimAlManager::parseArguments It checks for argument in..." alt="" coords="964,23,1187,50"/>
+<area shape="rect" id="node5" href="$trim_al_main_8cpp.html#a0ddf1224851353fc92bfbff6f499fa97" title="main" alt="" coords="1235,78,1285,105"/>
+<area shape="rect" id="node7" href="$classtrim_al_manager.html#adc529dd893ed4e9df6f3ddbd58776068" title="Core Method of the program. This is where almost all cleaning methods are called from. " alt="" coords="488,71,633,112"/>
+<area shape="rect" id="node8" href="$classtrim_al_manager.html#a7c641a1feff33d401b4ea5c82e989289" title="trimAlManager::innerPerform" alt="" coords="707,78,895,105"/>
+<area shape="rect" id="node9" href="$classtrim_al_manager.html#abe8d2841455c644dc9c7d1294b82b00f" title="Method to perform the analysis if all checks have passed. " alt="" coords="996,78,1155,105"/>
+<area shape="rect" id="node12" href="$classtrim_al_manager.html#a12b7cef964ef258fe7621da44867c51f" title="Method to check if multiple files comparison has been set correctly. It also perform some calculation..." alt="" coords="687,139,916,166"/>
+<area shape="rect" id="node13" href="$classtrim_al_manager.html#af3b0625b6bcc6df5978e63530a5956e6" title="Method to parse arguments into usable structure in trimal. " alt="" coords="971,133,1180,159"/>
+</map>

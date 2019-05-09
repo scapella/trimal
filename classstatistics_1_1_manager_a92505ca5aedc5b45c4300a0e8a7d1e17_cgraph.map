@@ -1,0 +1,23 @@
+<map id="statistics::Manager::calculateConservationStats" name="statistics::Manager::calculateConservationStats">
+<area shape="rect" id="node2" href="$classstatistics_1_1_similarity.html#adcb5627b9704850e85433fc40c19db17" title="Allows us compute the conservationWindow&#39;s values. " alt="" coords="245,135,382,176"/>
+<area shape="rect" id="node3" href="$classstatistics_1_1_similarity.html#ae69ec0e79912ae23c8cfe97358c4794d" title="Method to calculate the similarity values of a alignment matrix. " alt="" coords="431,160,568,201"/>
+<area shape="rect" id="node8" href="$classstatistics_1_1_manager.html#a1969a416d3020d25daa56de6c5e305db" title="Method to handle gap stat calculation It checks if the gaps submodule has been created, otherwise, creates it. " alt="" coords="633,320,770,361"/>
+<area shape="rect" id="node18" href="$classstatistics_1_1_similarity.html#a4446bf070a858952dac45f5705d16780" title="Returns if a windows size value has been defined or not. " alt="" coords="245,303,382,344"/>
+<area shape="rect" id="node19" href="$classstatistics_1_1_similarity.html#a88b1061ad8e64c1a63a4aa00db7424e3" title="Returns if a similarity matrix is being used or not. " alt="" coords="245,368,382,409"/>
+<area shape="rect" id="node20" href="$classstatistics_1_1_similarity.html#a95126bfd6b0ed22c828a6ab780096a12" title="Stores a valid similarity matrix point to use. " alt="" coords="244,433,383,475"/>
+<area shape="rect" id="node21" href="$classstatistics_1_1_similarity.html#ada0548f0ac960fbbb3a3192f83c42189" title="Constructor without any parameters. " alt="" coords="245,499,382,540"/>
+<area shape="rect" id="node13" href="$classreporting_1_1report_manager.html#a6d122e673144584e0869bd33b8a5c1c6" title="Method to report an Error. &#160;It will be displayed if Level &#160;is equal or higher to VerboseLevel::ERROR..." alt="" coords="1089,75,1252,116"/>
+<area shape="rect" id="node4" href="$classstatistics_1_1_similarity.html#a75bd235b3207235eefa7b52dff063c76" title="Computes the matrix identity between alignment&#39;s columns. " alt="" coords="621,189,782,231"/>
+<area shape="rect" id="node5" href="$class_alignment.html#a3f8f2eafd37c9b5bc275b9889a2de96a" title="Alignment type getter. &#160;&#160;See SequenceTypes. " alt="" coords="838,141,1031,167"/>
+<area shape="rect" id="node7" href="$namespaceutils.html#a6286fde6f4dd58ef0cfa9d55341b72f8" title="utils::toUpper" alt="" coords="1307,61,1407,87"/>
+<area shape="rect" id="node15" href="$classstatistics_1_1_gaps.html#ab5b60db326475f8adc68b130e22b3963" title="statistics::Gaps::getGaps\lWindow" alt="" coords="616,255,787,296"/>
+<area shape="rect" id="node17" href="$classstatistics_1_1similarity_matrix.html#a0cdb3ed14678b442824e84e6385e8f84" title="Method to get the similarity distance between two residues, A and B Characters provided must be both ..." alt="" coords="616,72,787,113"/>
+<area shape="rect" id="node6" href="$namespaceutils.html#aab52f9515717f06cafd6ab7fe2ebdcef" title="Checks an alignment type. " alt="" coords="1083,141,1259,167"/>
+<area shape="rect" id="node9" href="$classstatistics_1_1_gaps.html#a2f1d71bafa5e44e5f2c96771cf2a26ed" title="statistics::Gaps::Gaps" alt="" coords="858,319,1011,346"/>
+<area shape="rect" id="node11" href="$classstatistics_1_1_gaps.html#aa3526494d5100e062daa4afba755d0b1" title="statistics::Gaps::Calculate\lVectors" alt="" coords="846,371,1023,412"/>
+<area shape="rect" id="node12" href="$classstatistics_1_1_gaps.html#aee36b772767467cdba2061df2305e85d" title="statistics::Gaps::applyWindow" alt="" coords="835,269,1035,295"/>
+<area shape="rect" id="node10" href="$namespaceutils.html#aac322cd1761fddedec8a5792e358eb32" title="Vector initialization. " alt="" coords="1120,319,1221,346"/>
+<area shape="rect" id="node14" href="$namespaceutils.html#ad50731aeb3c8f79ed8372516210dfc9d" title="Round double to integer method. " alt="" coords="1120,269,1221,295"/>
+<area shape="rect" id="node16" href="$classstatistics_1_1_gaps.html#ad812a924cf5e3f900aad3ed4a9664300" title="statistics::Gaps::isDefined\lWindow" alt="" coords="846,203,1023,244"/>
+<area shape="rect" id="node22" href="$namespaceutils.html#a54839bee4863694819d990565e1e92cd" title="Vector initialization. " alt="" coords="449,506,550,533"/>
+</map>

@@ -1,0 +1,12 @@
+<map id="Cleaner::removeOnlyTerminal" name="Cleaner::removeOnlyTerminal">
+<area shape="rect" id="node2" href="$classstatistics_1_1_manager.html#a1969a416d3020d25daa56de6c5e305db" title="Method to handle gap stat calculation It checks if the gaps submodule has been created, otherwise, creates it. " alt="" coords="275,87,413,128"/>
+<area shape="rect" id="node7" href="$classreporting_1_1report_manager.html#a6d122e673144584e0869bd33b8a5c1c6" title="Method to report an Error. &#160;It will be displayed if Level &#160;is equal or higher to VerboseLevel::ERROR..." alt="" coords="736,203,899,244"/>
+<area shape="rect" id="node9" href="$classstatistics_1_1_gaps.html#ab5b60db326475f8adc68b130e22b3963" title="statistics::Gaps::getGaps\lWindow" alt="" coords="259,173,429,215"/>
+<area shape="rect" id="node11" href="$class_alignment.html#a0b32dd76a1a98278068a7b65797ae6b9" title="Updates the sequence number and residue number based on saveResidues and saveSequences. " alt="" coords="248,291,440,332"/>
+<area shape="rect" id="node3" href="$classstatistics_1_1_gaps.html#a2f1d71bafa5e44e5f2c96771cf2a26ed" title="statistics::Gaps::Gaps" alt="" coords="511,71,665,98"/>
+<area shape="rect" id="node5" href="$classstatistics_1_1_gaps.html#aa3526494d5100e062daa4afba755d0b1" title="statistics::Gaps::Calculate\lVectors" alt="" coords="499,5,677,47"/>
+<area shape="rect" id="node6" href="$classstatistics_1_1_gaps.html#aee36b772767467cdba2061df2305e85d" title="statistics::Gaps::applyWindow" alt="" coords="488,122,688,149"/>
+<area shape="rect" id="node4" href="$namespaceutils.html#aac322cd1761fddedec8a5792e358eb32" title="Vector initialization. " alt="" coords="767,71,868,98"/>
+<area shape="rect" id="node8" href="$namespaceutils.html#ad50731aeb3c8f79ed8372516210dfc9d" title="Round double to integer method. " alt="" coords="767,122,868,149"/>
+<area shape="rect" id="node10" href="$classstatistics_1_1_gaps.html#ad812a924cf5e3f900aad3ed4a9664300" title="statistics::Gaps::isDefined\lWindow" alt="" coords="499,173,677,215"/>
+</map>

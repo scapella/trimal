@@ -1,0 +1,7 @@
+<map id="Alignment::checkCorrespondence" name="Alignment::checkCorrespondence">
+<area shape="rect" id="node1" title="Function to check CDS file. ." alt="" coords="787,20,1005,47"/>
+<area shape="rect" id="node2" href="$classtrim_al_manager.html#a8873f972344b34acf6441c1f46338082" title="Method to check if the origAlig and backtranslationAlig are compatible in names to make the backtrans..." alt="" coords="572,5,739,61"/>
+<area shape="rect" id="node3" href="$classtrim_al_manager.html#a3f325b806727751394adb829d97b35f1" title="Method that checks dependencies between arguments. Take in mind that dependencies may be between mult..." alt="" coords="375,13,524,54"/>
+<area shape="rect" id="node4" href="$classtrim_al_manager.html#a748b08a1ec5cd214de804ed0d4234a6e" title="Method to process the information obtained by trimAlManager::parseArguments It checks for argument in..." alt="" coords="104,20,327,47"/>
+<area shape="rect" id="node5" href="$trim_al_main_8cpp.html#a0ddf1224851353fc92bfbff6f499fa97" title=" " alt="" coords="5,20,56,47"/>
+</map>

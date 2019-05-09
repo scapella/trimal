@@ -1,0 +1,8 @@
+<map id="Alignment::getSequences" name="Alignment::getSequences">
+<area shape="rect" id="node2" href="$classstatistics_1_1_consistency.html#a35c4f5aab5ad2e8d4722f07b17b9dbd2" title="Method to compare a set of alignments to select the most consistent one respect the others..." alt="" coords="224,5,380,47"/>
+<area shape="rect" id="node7" href="$classstatistics_1_1_consistency.html#a12d0b624abec361767bd3a6001998f02" title="Method to obtain the consistency values vector for a given alignment against a set of alignments with..." alt="" coords="224,71,380,112"/>
+<area shape="rect" id="node3" href="$classstatistics_1_1_consistency.html#a8f7ddf54c5be583916b983ede82d5b88" title="Method to compare a set of MSA, all containing the same sequences and residues. The number of residue..." alt="" coords="428,39,584,80"/>
+<area shape="rect" id="node4" href="$classtrim_al_manager.html#a12b7cef964ef258fe7621da44867c51f" title="Method to check if multiple files comparison has been set correctly. It also perform some calculation..." alt="" coords="632,46,861,73"/>
+<area shape="rect" id="node5" href="$classtrim_al_manager.html#af3b0625b6bcc6df5978e63530a5956e6" title="Method to parse arguments into usable structure in trimal. " alt="" coords="909,46,1119,73"/>
+<area shape="rect" id="node6" href="$trim_al_main_8cpp.html#a0ddf1224851353fc92bfbff6f499fa97" title="main" alt="" coords="1167,46,1217,73"/>
+</map>

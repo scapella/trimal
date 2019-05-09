@@ -1,0 +1,13 @@
+<map id="FormatHandling::BaseFormatHandler::RecognizeOutputFormat" name="FormatHandling::BaseFormatHandler::RecognizeOutputFormat">
+<area shape="rect" id="node2" href="$class_format_handling_1_1_format_manager.html#ac0a3cee8e52e9ef5c61188094dd50bf2" title="FormatHandling::FormatManager\l::getFormatFromToken" alt="" coords="271,129,484,171"/>
+<area shape="rect" id="node3" href="$class_format_handling_1_1_format_manager.html#af8d1e7864bb2811199d26ff24a30440e" title="Function to save an alignment to a file. It searches among the available_states one that can write th..." alt="" coords="532,71,745,112"/>
+<area shape="rect" id="node8" href="$classtrim_al_manager.html#abe8d2841455c644dc9c7d1294b82b00f" title="Method to perform the analysis if all checks have passed. " alt="" coords="1507,137,1665,163"/>
+<area shape="rect" id="node11" href="$classtrim_al_manager.html#a476864552caf696b9fcf0e974ea142e7" title="Method to parse the output formats as &#45;fasta &#45;clustal or &#45;formats [...]. " alt="" coords="571,188,706,229"/>
+<area shape="rect" id="node4" href="$class_format_handling_1_1_format_manager.html#a084d6b423e40a6d53ab3f4413f3f9176" title="Function to save an alignment to a file. It searches among the available_states one that can write th..." alt="" coords="795,71,1009,112"/>
+<area shape="rect" id="node10" href="$class_format_handling_1_1_format_manager.html#a853678a6e07f67da8cf7b77795b297be" title="Function that takes multiple files, loads them and saves in a cumulus of formats, using an outPattern..." alt="" coords="793,5,1011,47"/>
+<area shape="rect" id="node5" href="$read_al_main_8cpp.html#a0ddf1224851353fc92bfbff6f499fa97" title="main" alt="" coords="1105,17,1155,43"/>
+<area shape="rect" id="node6" href="$classtrim_al_manager.html#a7ba38127fa10c926b96c60250b80d2b7" title="trimAlManager::save\l_alignment" alt="" coords="1059,71,1201,112"/>
+<area shape="rect" id="node7" href="$classtrim_al_manager.html#a7c641a1feff33d401b4ea5c82e989289" title="trimAlManager::innerPerform" alt="" coords="1260,82,1448,109"/>
+<area shape="rect" id="node9" href="$trim_al_main_8cpp.html#a0ddf1224851353fc92bfbff6f499fa97" title="main" alt="" coords="1713,163,1764,190"/>
+<area shape="rect" id="node12" href="$classtrim_al_manager.html#af3b0625b6bcc6df5978e63530a5956e6" title="Method to parse arguments into usable structure in trimal. " alt="" coords="1249,190,1459,217"/>
+</map>

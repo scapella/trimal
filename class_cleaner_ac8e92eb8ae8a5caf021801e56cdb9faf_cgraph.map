@@ -1,0 +1,11 @@
+<map id="Cleaner::removeColumns" name="Cleaner::removeColumns">
+<area shape="rect" id="node2" href="$class_alignment.html#aeeee94970a445f32aa79646c249befef" title="Copy Constructor. &#160;&#160;The copy constructor does not make a copy of all structures present on the origin..." alt="" coords="248,78,395,105"/>
+<area shape="rect" id="node8" href="$class_cleaner.html#ada8ad076dd037f00ae3f4fd17762641f" title="Method that identifies and removes columns and sequences composed only by gaps. " alt="" coords="224,133,419,175"/>
+<area shape="rect" id="node10" href="$class_alignment.html#a0b32dd76a1a98278068a7b65797ae6b9" title="Updates the sequence number and residue number based on saveResidues and saveSequences. " alt="" coords="225,199,417,240"/>
+<area shape="rect" id="node3" href="$class_cleaner.html#afe42cb635ddd6bd968ae57e378deaac8" title="Copy Constructor &#45; Called by Alignment. " alt="" coords="488,19,608,46"/>
+<area shape="rect" id="node4" href="$classstatistics_1_1_manager.html#aee28602da015edb0880d59ce4c0f855d" title="statistics::Manager\l::Manager" alt="" coords="481,71,615,112"/>
+<area shape="rect" id="node5" href="$classstatistics_1_1_similarity.html#afecab92459785c7568511217969f6cde" title="statistics::Similarity\l::Similarity" alt="" coords="687,5,824,47"/>
+<area shape="rect" id="node6" href="$classstatistics_1_1_consistency.html#ae39d2aae825d263ac8c3198782b824d2" title="Copy constructor. " alt="" coords="677,71,833,112"/>
+<area shape="rect" id="node7" href="$classstatistics_1_1_gaps.html#a0233d71123523698b0bbf6fe6119b630" title="statistics::Gaps::Gaps" alt="" coords="679,137,832,163"/>
+<area shape="rect" id="node9" href="$classreporting_1_1report_manager.html#a75a240a78f31ba479892a9a0f53996fa" title="Method to report a Warning. &#160;It will be displayed if Level &#160;is equal or higher to VerboseLevel::WARNI..." alt="" coords="467,136,629,177"/>
+</map>

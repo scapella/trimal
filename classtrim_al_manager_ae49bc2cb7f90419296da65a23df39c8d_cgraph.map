@@ -1,0 +1,8 @@
+<map id="trimAlManager::back_trans_argument" name="trimAlManager::back_trans_argument">
+<area shape="rect" id="node2" href="$class_format_handling_1_1_format_manager.html#a057615a4fa5e9644a81540ba526725a6" title="Function that loads an alignment given a file path. It automatically detects the format of the file..." alt="" coords="196,211,409,252"/>
+<area shape="rect" id="node5" href="$classreporting_1_1report_manager.html#ab093ae2e909308ebb4118d6f6a03f5fd" title="Method to report an Error. It will be displayed if Level &#160;is equal or higher to VerboseLevel::ERROR. " alt="" coords="980,123,1143,164"/>
+<area shape="rect" id="node3" href="$class_format_handling_1_1_format_manager.html#a850c827a60ae4ee1e5bb34b7485f0412" title="FormatHandling::FormatManager\l::getFormatFromFile" alt="" coords="457,93,671,135"/>
+<area shape="rect" id="node7" href="$class_format_handling_1_1_base_format_handler.html#a481d8f3ff416366bff9516f55620c9f4" title="Function to load a file in the current format and return an alignment object. " alt="" coords="467,240,661,281"/>
+<area shape="rect" id="node4" href="$class_format_handling_1_1_format_manager.html#a0b032188aa2d883026e547ea665c9b45" title="FormatHandling::FormatManager\l::getNonEmptyFile" alt="" coords="719,5,932,47"/>
+<area shape="rect" id="node6" href="$class_format_handling_1_1_base_format_handler.html#a6186050eb30aec3f4fa7e1c834f2add1" title="Function to check if a file is in the implemented format. " alt="" coords="729,123,922,164"/>
+</map>

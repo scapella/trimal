@@ -1,0 +1,7 @@
+<map id="statistics::Similarity::printConservationAcl" name="statistics::Similarity::printConservationAcl">
+<area shape="rect" id="node2" href="$classstatistics_1_1_manager.html#aa20cfb477826035386ea988e3706b09a" title="Wrapper to Statistics::Similarity::printGapsTotal() It calls to calculateConservationStats() to make ..." alt="" coords="204,5,391,61"/>
+<area shape="rect" id="node3" href="$classtrim_al_manager.html#afc48b86f5ae35b9a5e721b65c58bf610" title="Method to print statistics requested. " alt="" coords="439,13,577,54"/>
+<area shape="rect" id="node4" href="$classtrim_al_manager.html#a7c641a1feff33d401b4ea5c82e989289" title="trimAlManager::innerPerform" alt="" coords="625,20,813,47"/>
+<area shape="rect" id="node5" href="$classtrim_al_manager.html#abe8d2841455c644dc9c7d1294b82b00f" title="Method to perform the analysis if all checks have passed. " alt="" coords="861,20,1020,47"/>
+<area shape="rect" id="node6" href="$trim_al_main_8cpp.html#a0ddf1224851353fc92bfbff6f499fa97" title="main" alt="" coords="1068,20,1119,47"/>
+</map>

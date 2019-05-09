@@ -1,0 +1,10 @@
+<map id="FormatHandling::FormatManager::saveAlignments" name="FormatHandling::FormatManager::saveAlignments">
+<area shape="rect" id="node2" href="$namespaceutils.html#ad13c1bc858488be55a200a4e94f8f1d1" title="Method to check the existance of a file. Works exactly as fileExists(std::string &amp; path)..." alt="" coords="319,5,427,32"/>
+<area shape="rect" id="node3" href="$class_format_handling_1_1_format_manager.html#ac0a3cee8e52e9ef5c61188094dd50bf2" title="FormatHandling::FormatManager\l::getFormatFromToken" alt="" coords="267,57,480,98"/>
+<area shape="rect" id="node5" href="$class_format_handling_1_1_format_manager.html#a04370e2eae3630aab799320268b70176" title="FormatHandling::FormatManager\l::replaceINtag" alt="" coords="267,122,480,163"/>
+<area shape="rect" id="node6" href="$namespaceutils.html#ab0cb109dc7e12b42abd4cba86f7d8e78" title="Function that replaces a substring with another substring in a string. It makes a copy of the origina..." alt="" coords="569,159,705,185"/>
+<area shape="rect" id="node7" href="$namespaceutils.html#a6000246220e801bf6b1e6a553d7af13a" title="Function that replaces a substring with another substring in a string. It does not make a copy of the..." alt="" coords="283,239,463,265"/>
+<area shape="rect" id="node8" href="$classreporting_1_1report_manager.html#ab093ae2e909308ebb4118d6f6a03f5fd" title="Method to report an Error. It will be displayed if Level &#160;is equal or higher to VerboseLevel::ERROR. " alt="" coords="292,290,455,331"/>
+<area shape="rect" id="node9" href="$class_format_handling_1_1_base_format_handler.html#a189a6503643fc83fb7bd466cc01262b2" title="Function to save a Alignment to a file. " alt="" coords="277,355,470,397"/>
+<area shape="rect" id="node4" href="$class_format_handling_1_1_base_format_handler.html#a4635f6691269acf1f6280f9b984fd277" title="Function that recognizes acronyms of the format. " alt="" coords="528,57,745,98"/>
+</map>

@@ -1,0 +1,11 @@
+<map id="utils::max" name="utils::max">
+<area shape="rect" id="node2" href="$class_alignment.html#a3754dfadea173918f5e85b9eb4c3ad8a" title="Method to report the trimming results in HTML. Outputs an HTML file that shows visually what has been..." alt="" coords="132,5,368,32"/>
+<area shape="rect" id="node7" href="$class_alignment.html#ac4196c026e0f482eaccf9976f82f72e3" title="Method to report the trimming results in SVG. Outputs a SVG file that shows visually what has been do..." alt="" coords="136,56,364,83"/>
+<area shape="rect" id="node8" href="$class_alignment.html#accfd82f91b9cdbe7a14ba85a1bada8cf" title="Method to print different identity values computed from the alignment. In this method we assess the i..." alt="" coords="161,107,339,133"/>
+<area shape="rect" id="node10" href="$class_alignment.html#a57b5686aff7324890422aa4295bc62d1" title="Prints the overlap between sequences. " alt="" coords="159,157,341,184"/>
+<area shape="rect" id="node3" href="$classtrim_al_manager.html#a1da8f8b677f19ed8f7e08a663d97bb92" title="trimAlManager::output\l_reports" alt="" coords="416,42,567,83"/>
+<area shape="rect" id="node4" href="$classtrim_al_manager.html#a7c641a1feff33d401b4ea5c82e989289" title="trimAlManager::innerPerform" alt="" coords="615,83,803,109"/>
+<area shape="rect" id="node5" href="$classtrim_al_manager.html#abe8d2841455c644dc9c7d1294b82b00f" title="Method to perform the analysis if all checks have passed. " alt="" coords="851,83,1009,109"/>
+<area shape="rect" id="node6" href="$trim_al_main_8cpp.html#a0ddf1224851353fc92bfbff6f499fa97" title="main" alt="" coords="1057,83,1108,109"/>
+<area shape="rect" id="node9" href="$classtrim_al_manager.html#afc48b86f5ae35b9a5e721b65c58bf610" title="Method to print statistics requested. " alt="" coords="422,107,561,149"/>
+</map>

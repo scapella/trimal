@@ -1,0 +1,10 @@
+<map id="statistics::Consistency::compareAndChoose" name="statistics::Consistency::compareAndChoose">
+<area shape="rect" id="node2" href="$class_alignment_1_1sequences_matrix.html#ade52c6977160c699b42c8a44735397e8" title="Method to get a column out of the matrix. " alt="" coords="215,5,402,47"/>
+<area shape="rect" id="node3" href="$class_alignment.html#a5b534495c7c6fac732b290359f3b8992" title="Residues number getter. It counts gaps as residue. " alt="" coords="219,71,398,98"/>
+<area shape="rect" id="node4" href="$class_alignment.html#af9c7aec9082ef16573d7fe37a93a638a" title="Number of sequences getter. " alt="" coords="218,122,399,149"/>
+<area shape="rect" id="node5" href="$class_alignment.html#ab24c9f56fb953e3e01eec2c850c6aee5" title="Method to map two sets of sequences, own and external. The method accepts a vector of names..." alt="" coords="209,173,408,215"/>
+<area shape="rect" id="node6" href="$class_alignment.html#af5deab9f747b96c43a1004c2e1170095" title="Getter for the sequences names. " alt="" coords="223,239,394,266"/>
+<area shape="rect" id="node7" href="$namespaceutils.html#a54839bee4863694819d990565e1e92cd" title="Vector initialization. " alt="" coords="258,290,359,317"/>
+<area shape="rect" id="node8" href="$classreporting_1_1report_manager.html#a6d122e673144584e0869bd33b8a5c1c6" title="Method to report an Error. &#160;It will be displayed if Level &#160;is equal or higher to VerboseLevel::ERROR..." alt="" coords="227,341,390,383"/>
+<area shape="rect" id="node9" href="$class_alignment_1_1sequences_matrix.html#a1cc36c365ace94585d966db0404e5081" title="Method that reorders the stored sequences with a given order list. " alt="" coords="215,407,402,448"/>
+</map>

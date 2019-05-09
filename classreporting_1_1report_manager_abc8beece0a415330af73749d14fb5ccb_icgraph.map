@@ -1,0 +1,24 @@
+<map id="reporting::reportManager::report" name="reporting::reportManager::report">
+<area shape="rect" id="node2" href="$classtrim_al_manager.html#ae49bc2cb7f90419296da65a23df39c8d" title="Method to parse the backtranslation argument. " alt="" coords="488,176,631,217"/>
+<area shape="rect" id="node3" href="$classtrim_al_manager.html#af140d97b6071a83930818030ac74b641" title="Method to parse arguments into usable structure in trimal. " alt="" coords="969,222,1179,248"/>
+<area shape="rect" id="node5" href="$classtrim_al_manager.html#adc529dd893ed4e9df6f3ddbd58776068" title="Core Method of the program. This is where almost all cleaning methods are called from. " alt="" coords="487,606,632,648"/>
+<area shape="rect" id="node9" href="$classtrim_al_manager.html#a13b1c52c612f6883e7857c846567dfa2" title="Method to parse the comparset argument. " alt="" coords="709,126,891,168"/>
+<area shape="rect" id="node10" href="$classtrim_al_manager.html#a63dad1ad106b0fa09351cd5981b37aeb" title="Method to parse the force select argument. " alt="" coords="488,241,631,282"/>
+<area shape="rect" id="node11" href="$class_format_handling_1_1_format_manager.html#ac691b15ee0b0e6a22a22f82569672745" title="Function to obtain the format name of a given file. " alt="" coords="218,365,431,406"/>
+<area shape="rect" id="node18" href="$class_format_handling_1_1_format_manager.html#ae02b932789b35289dc506e8ed0297695" title="Function that loads an alignment given a file path. It automatically detects the format of the file..." alt="" coords="218,300,431,341"/>
+<area shape="rect" id="node20" href="$class_format_handling_1_1_format_manager.html#aac5df1a01a25e54aa856ef68085bd72a" title="Function that takes multiple files, loads them and saves in a cumulus of formats, using an outPattern..." alt="" coords="216,430,433,472"/>
+<area shape="rect" id="node21" href="$classtrim_al_manager.html#a64cc70f78e37b1dfa11627252d23edaa" title="Method to parse the custom matrix argument. " alt="" coords="249,8,400,49"/>
+<area shape="rect" id="node22" href="$class_format_handling_1_1_format_manager.html#a2987b0f448390cf5cb7a287117896c64" title="Function to save an alignment to a file. It searches among the available_states one that can write th..." alt="" coords="218,496,431,537"/>
+<area shape="rect" id="node4" href="$trim_al_main_8cpp.html#a0ddf1224851353fc92bfbff6f499fa97" title="main" alt="" coords="1233,431,1284,458"/>
+<area shape="rect" id="node6" href="$classtrim_al_manager.html#a7c641a1feff33d401b4ea5c82e989289" title="trimAlManager::innerPerform" alt="" coords="706,548,894,575"/>
+<area shape="rect" id="node8" href="$classtrim_al_manager.html#ac5795f93b3a2b51bf5d8dddd63b89f73" title="trimAlManager::perform_VCF" alt="" coords="704,606,896,632"/>
+<area shape="rect" id="node7" href="$classtrim_al_manager.html#abe8d2841455c644dc9c7d1294b82b00f" title="Method to perform the analysis if all checks have passed. " alt="" coords="995,515,1153,542"/>
+<area shape="rect" id="node12" href="$classtrim_al_manager.html#af7c3b97a17c2f5750f9481cc60c17616" title="Method to check if an output format has been given. If no output format has been given, it will use the inFile format. " alt="" coords="485,424,634,465"/>
+<area shape="rect" id="node15" href="$read_al_main_8cpp.html#a0ddf1224851353fc92bfbff6f499fa97" title="main" alt="" coords="534,490,585,516"/>
+<area shape="rect" id="node16" href="$classstatistics_1_1_consistency.html#ae8679e43ec228926ac2844af133cc2d5" title="Method to compare a set of MSA, all containing the same sequences and residues. The number of residue..." alt="" coords="481,358,637,400"/>
+<area shape="rect" id="node13" href="$classtrim_al_manager.html#a3f325b806727751394adb829d97b35f1" title="Method that checks dependencies between arguments. Take in mind that dependencies may be between mult..." alt="" coords="725,424,875,465"/>
+<area shape="rect" id="node14" href="$classtrim_al_manager.html#a748b08a1ec5cd214de804ed0d4234a6e" title="Method to process the information obtained by trimAlManager::parseArguments It checks for argument in..." alt="" coords="963,431,1185,458"/>
+<area shape="rect" id="node17" href="$classtrim_al_manager.html#a12b7cef964ef258fe7621da44867c51f" title="Method to check if multiple files comparison has been set correctly. It also perform some calculation..." alt="" coords="685,360,915,387"/>
+<area shape="rect" id="node19" href="$classtrim_al_manager.html#a9580aa82de8aba6794647a36c0416a33" title="Method to parse the input file argument. " alt="" coords="707,302,893,328"/>
+<area shape="rect" id="node23" href="$classtrim_al_manager.html#a7ba38127fa10c926b96c60250b80d2b7" title="trimAlManager::save\l_alignment" alt="" coords="488,541,631,582"/>
+</map>

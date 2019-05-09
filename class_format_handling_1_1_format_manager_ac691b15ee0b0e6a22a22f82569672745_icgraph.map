@@ -1,0 +1,10 @@
+<map id="FormatHandling::FormatManager::getFileFormatName" name="FormatHandling::FormatManager::getFileFormatName">
+<area shape="rect" id="node2" href="$classtrim_al_manager.html#af7c3b97a17c2f5750f9481cc60c17616" title="Method to check if an output format has been given. If no output format has been given, it will use the inFile format. " alt="" coords="270,5,419,47"/>
+<area shape="rect" id="node6" href="$read_al_main_8cpp.html#a0ddf1224851353fc92bfbff6f499fa97" title="main" alt="" coords="319,71,370,98"/>
+<area shape="rect" id="node7" href="$classstatistics_1_1_consistency.html#ae8679e43ec228926ac2844af133cc2d5" title="Method to compare a set of MSA, all containing the same sequences and residues. The number of residue..." alt="" coords="267,123,423,164"/>
+<area shape="rect" id="node3" href="$classtrim_al_manager.html#a3f325b806727751394adb829d97b35f1" title="Method that checks dependencies between arguments. Take in mind that dependencies may be between mult..." alt="" coords="511,20,660,61"/>
+<area shape="rect" id="node4" href="$classtrim_al_manager.html#a748b08a1ec5cd214de804ed0d4234a6e" title="Method to process the information obtained by trimAlManager::parseArguments It checks for argument in..." alt="" coords="748,45,971,71"/>
+<area shape="rect" id="node5" href="$trim_al_main_8cpp.html#a0ddf1224851353fc92bfbff6f499fa97" title="main" alt="" coords="1019,71,1069,98"/>
+<area shape="rect" id="node8" href="$classtrim_al_manager.html#a12b7cef964ef258fe7621da44867c51f" title="Method to check if multiple files comparison has been set correctly. It also perform some calculation..." alt="" coords="471,101,700,127"/>
+<area shape="rect" id="node9" href="$classtrim_al_manager.html#af140d97b6071a83930818030ac74b641" title="Method to parse arguments into usable structure in trimal. " alt="" coords="755,97,964,123"/>
+</map>

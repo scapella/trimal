@@ -1,0 +1,13 @@
+<map id="Alignment::isFileAligned" name="Alignment::isFileAligned">
+<area shape="rect" id="node1" title="isAligned getter." alt="" coords="856,111,1019,138"/>
+<area shape="rect" id="node2" href="$classtrim_al_manager.html#ac2c6938833505b9ded4c84636dee2663" title="Method to check backtranslation needs." alt="" coords="637,5,786,47"/>
+<area shape="rect" id="node6" href="$classtrim_al_manager.html#a3beec34d7074f4a67ccaf4e8bb875122" title="Method to check if an alignment needs to be aligned depending on the methods that have been asked to ..." alt="" coords="637,71,786,112"/>
+<area shape="rect" id="node7" href="$classtrim_al_manager.html#adc529dd893ed4e9df6f3ddbd58776068" title="Core Method of the program. This is where almost all cleaning methods are called from." alt="" coords="639,136,784,177"/>
+<area shape="rect" id="node10" href="$class_alignment.html#a98c8963cf4276e71829f9725e0d26020" title="Print information about sequences number, average sequence length, maximum and minimum sequences leng..." alt="" coords="615,202,808,229"/>
+<area shape="rect" id="node3" href="$classtrim_al_manager.html#a3f325b806727751394adb829d97b35f1" title="Method that checks dependencies between arguments. Take in mind that dependencies may be between mult..." alt="" coords="396,31,545,72"/>
+<area shape="rect" id="node4" href="$classtrim_al_manager.html#a748b08a1ec5cd214de804ed0d4234a6e" title="Method to process the information obtained by trimAlManager::parseArguments It checks for argument in..." alt="" coords="104,42,327,69"/>
+<area shape="rect" id="node5" href="$trim_al_main_8cpp.html#a0ddf1224851353fc92bfbff6f499fa97" title=" " alt="" coords="5,71,56,98"/>
+<area shape="rect" id="node8" href="$classtrim_al_manager.html#abe8d2841455c644dc9c7d1294b82b00f" title="Method to perform the analysis if all checks have passed." alt="" coords="136,97,295,123"/>
+<area shape="rect" id="node9" href="$classtrim_al_manager.html#ac5795f93b3a2b51bf5d8dddd63b89f73" title=" " alt="" coords="375,147,567,174"/>
+<area shape="rect" id="node11" href="$read_al_main_8cpp.html#a0ddf1224851353fc92bfbff6f499fa97" title=" " alt="" coords="445,202,496,229"/>
+</map>

@@ -1,0 +1,8 @@
+<map id="trimAlManager::check_backtranslation_infile_names_correspondence" name="trimAlManager::check_backtranslation_infile_names_correspondence">
+<area shape="rect" id="node2" href="$class_alignment.html#a12f7c76645e480ee17e7c1093d906ef8" title="Function to check CDS file. . " alt="" coords="220,53,439,80"/>
+<area shape="rect" id="node6" href="$class_alignment.html#af9c7aec9082ef16573d7fe37a93a638a" title="Number of sequences getter. " alt="" coords="239,104,420,131"/>
+<area shape="rect" id="node7" href="$class_alignment.html#ae8b5f6fbc7ffb828c7eb51ae74e6888c" title="Getter for the sequences names and its lenghts. " alt="" coords="244,155,415,181"/>
+<area shape="rect" id="node3" href="$namespaceutils.html#ab04f5770187b0a8c36c3c8ca55f1e67f" title="Minimum of two numbers method. " alt="" coords="531,5,605,32"/>
+<area shape="rect" id="node4" href="$namespaceutils.html#ac0a8721fef543bec18cec5c90c16faff" title="Removes a determined char from the string. " alt="" coords="491,133,645,160"/>
+<area shape="rect" id="node5" href="$classreporting_1_1report_manager.html#a75a240a78f31ba479892a9a0f53996fa" title="Method to report a Warning. &#160;It will be displayed if Level &#160;is equal or higher to VerboseLevel::WARNI..." alt="" coords="487,57,649,98"/>
+</map>

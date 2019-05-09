@@ -1,0 +1,17 @@
+<map id="statistics::Similarity::applyWindow" name="statistics::Similarity::applyWindow">
+<area shape="rect" id="node2" href="$classstatistics_1_1_similarity.html#ae69ec0e79912ae23c8cfe97358c4794d" title="Method to calculate the similarity values of a alignment matrix. " alt="" coords="191,225,328,267"/>
+<area shape="rect" id="node10" href="$classreporting_1_1report_manager.html#a6d122e673144584e0869bd33b8a5c1c6" title="Method to report an Error. &#160;It will be displayed if Level &#160;is equal or higher to VerboseLevel::ERROR..." alt="" coords="849,400,1012,441"/>
+<area shape="rect" id="node3" href="$classstatistics_1_1_similarity.html#a75bd235b3207235eefa7b52dff063c76" title="Computes the matrix identity between alignment&#39;s columns. " alt="" coords="381,5,542,47"/>
+<area shape="rect" id="node4" href="$class_alignment.html#a3f8f2eafd37c9b5bc275b9889a2de96a" title="Alignment type getter. &#160;&#160;See SequenceTypes. " alt="" coords="598,71,791,98"/>
+<area shape="rect" id="node6" href="$namespaceutils.html#a6286fde6f4dd58ef0cfa9d55341b72f8" title="utils::toUpper" alt="" coords="1067,97,1167,123"/>
+<area shape="rect" id="node7" href="$classstatistics_1_1_manager.html#a1969a416d3020d25daa56de6c5e305db" title="Method to handle gap stat calculation It checks if the gaps submodule has been created, otherwise, creates it. " alt="" coords="393,225,530,267"/>
+<area shape="rect" id="node14" href="$classstatistics_1_1_gaps.html#ab5b60db326475f8adc68b130e22b3963" title="statistics::Gaps::getGaps\lWindow" alt="" coords="376,291,547,332"/>
+<area shape="rect" id="node16" href="$classstatistics_1_1similarity_matrix.html#a0cdb3ed14678b442824e84e6385e8f84" title="Method to get the similarity distance between two residues, A and B Characters provided must be both ..." alt="" coords="376,371,547,412"/>
+<area shape="rect" id="node5" href="$namespaceutils.html#aab52f9515717f06cafd6ab7fe2ebdcef" title="Checks an alignment type. " alt="" coords="843,71,1019,98"/>
+<area shape="rect" id="node8" href="$classstatistics_1_1_gaps.html#aee36b772767467cdba2061df2305e85d" title="statistics::Gaps::applyWindow" alt="" coords="595,290,795,317"/>
+<area shape="rect" id="node12" href="$classstatistics_1_1_gaps.html#aa3526494d5100e062daa4afba755d0b1" title="statistics::Gaps::Calculate\lVectors" alt="" coords="606,173,783,215"/>
+<area shape="rect" id="node13" href="$classstatistics_1_1_gaps.html#a2f1d71bafa5e44e5f2c96771cf2a26ed" title="statistics::Gaps::Gaps" alt="" coords="618,239,771,266"/>
+<area shape="rect" id="node9" href="$namespaceutils.html#aac322cd1761fddedec8a5792e358eb32" title="Vector initialization. " alt="" coords="880,239,981,266"/>
+<area shape="rect" id="node11" href="$namespaceutils.html#ad50731aeb3c8f79ed8372516210dfc9d" title="Round double to integer method. " alt="" coords="880,290,981,317"/>
+<area shape="rect" id="node15" href="$classstatistics_1_1_gaps.html#ad812a924cf5e3f900aad3ed4a9664300" title="statistics::Gaps::isDefined\lWindow" alt="" coords="606,341,783,383"/>
+</map>

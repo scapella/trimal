@@ -1,0 +1,11 @@
+<map id="statistics::Manager::printStatisticsGapsColumns" name="statistics::Manager::printStatisticsGapsColumns">
+<area shape="rect" id="node2" href="$classstatistics_1_1_manager.html#a1969a416d3020d25daa56de6c5e305db" title="Method to handle gap stat calculation It checks if the gaps submodule has been created, otherwise, creates it. " alt="" coords="267,105,405,147"/>
+<area shape="rect" id="node9" href="$classstatistics_1_1_gaps.html#aec7e27fe863551ab270f5160d13e17dd" title="statistics::Gaps::printGaps\lColumns" alt="" coords="247,181,425,223"/>
+<area shape="rect" id="node3" href="$classstatistics_1_1_gaps.html#aee36b772767467cdba2061df2305e85d" title="statistics::Gaps::applyWindow" alt="" coords="473,42,673,69"/>
+<area shape="rect" id="node7" href="$classstatistics_1_1_gaps.html#aa3526494d5100e062daa4afba755d0b1" title="statistics::Gaps::Calculate\lVectors" alt="" coords="485,93,662,135"/>
+<area shape="rect" id="node8" href="$classstatistics_1_1_gaps.html#a2f1d71bafa5e44e5f2c96771cf2a26ed" title="statistics::Gaps::Gaps" alt="" coords="497,159,650,186"/>
+<area shape="rect" id="node4" href="$namespaceutils.html#aac322cd1761fddedec8a5792e358eb32" title="Vector initialization. " alt="" coords="752,126,853,153"/>
+<area shape="rect" id="node5" href="$classreporting_1_1report_manager.html#a6d122e673144584e0869bd33b8a5c1c6" title="Method to report an Error. &#160;It will be displayed if Level &#160;is equal or higher to VerboseLevel::ERROR..." alt="" coords="721,5,884,47"/>
+<area shape="rect" id="node6" href="$namespaceutils.html#ad50731aeb3c8f79ed8372516210dfc9d" title="Round double to integer method. " alt="" coords="752,71,853,98"/>
+<area shape="rect" id="node10" href="$namespaceutils.html#a42f272221edf7752ffda49e4212ef653" title="Integer vector copying. " alt="" coords="519,210,628,237"/>
+</map>

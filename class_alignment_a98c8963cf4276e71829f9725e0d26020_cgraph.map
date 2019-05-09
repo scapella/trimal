@@ -1,0 +1,6 @@
+<map id="Alignment::printAlignmentInfo" name="Alignment::printAlignmentInfo">
+<area shape="rect" id="node1" title="Print information about sequences number, average sequence length, maximum and minimum sequences leng..." alt="" coords="5,56,199,83"/>
+<area shape="rect" id="node2" href="$class_alignment.html#a214f498da34cb67cf45caf9569e03173" title="isAligned getter." alt="" coords="247,5,409,32"/>
+<area shape="rect" id="node3" href="$namespaceutils.html#a40640e1942f00797e9fe8284e8fbdb14" title="Maximum of two numbers method." alt="" coords="289,56,367,83"/>
+<area shape="rect" id="node4" href="$namespaceutils.html#ab04f5770187b0a8c36c3c8ca55f1e67f" title="Minimum of two numbers method." alt="" coords="291,107,365,133"/>
+</map>

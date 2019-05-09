@@ -1,0 +1,7 @@
+<map id="Alignment::getSequences" name="Alignment::getSequences">
+<area shape="rect" id="node2" href="$class_alignment.html#a3fd2333ea7098410cb271b795f482822" title="Method to check if the CDS file is correct. Based on nature of residues: DNA/RNA (Most of the residue..." alt="" coords="224,5,396,47"/>
+<area shape="rect" id="node3" href="$classtrim_al_manager.html#a55f0bbc922fb6854118da00a5bfa0c1b" title="Method to check and prepare the coding sequence. " alt="" coords="444,5,652,47"/>
+<area shape="rect" id="node4" href="$classtrim_al_manager.html#a3f325b806727751394adb829d97b35f1" title="Method that checks dependencies between arguments. Take in mind that dependencies may be between mult..." alt="" coords="700,5,849,47"/>
+<area shape="rect" id="node5" href="$classtrim_al_manager.html#a748b08a1ec5cd214de804ed0d4234a6e" title="Method to process the information obtained by trimAlManager::parseArguments It checks for argument in..." alt="" coords="897,13,1120,39"/>
+<area shape="rect" id="node6" href="$trim_al_main_8cpp.html#a0ddf1224851353fc92bfbff6f499fa97" title="main" alt="" coords="1168,13,1219,39"/>
+</map>

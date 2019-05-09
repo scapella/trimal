@@ -1,0 +1,7 @@
+<map id="Cleaner::cleanConservation" name="Cleaner::cleanConservation">
+<area shape="rect" id="node2" href="$classtrim_al_manager.html#aebfd21b0435302f0e4fc45a068d1b6ee" title="Method to trim the alignment using non automatic methods: " alt="" coords="236,5,439,47"/>
+<area shape="rect" id="node3" href="$classtrim_al_manager.html#adc529dd893ed4e9df6f3ddbd58776068" title="Core Method of the program. This is where almost all cleaning methods are called from. " alt="" coords="487,5,632,47"/>
+<area shape="rect" id="node4" href="$classtrim_al_manager.html#a7c641a1feff33d401b4ea5c82e989289" title="trimAlManager::innerPerform" alt="" coords="680,13,868,39"/>
+<area shape="rect" id="node5" href="$classtrim_al_manager.html#abe8d2841455c644dc9c7d1294b82b00f" title="Method to perform the analysis if all checks have passed. " alt="" coords="916,13,1075,39"/>
+<area shape="rect" id="node6" href="$trim_al_main_8cpp.html#a0ddf1224851353fc92bfbff6f499fa97" title="main" alt="" coords="1123,13,1173,39"/>
+</map>

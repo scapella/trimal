@@ -1,0 +1,16 @@
+<map id="trimAlManager::check_arguments_incompatibilities" name="trimAlManager::check_arguments_incompatibilities">
+<area shape="rect" id="node2" href="$classtrim_al_manager.html#a240651e152a2258badf642ed10a982f1" title="Method to check incompatibilities related to automated trimming methods. " alt="" coords="244,71,491,112"/>
+<area shape="rect" id="node4" href="$classtrim_al_manager.html#a197d0ef570aee1edc074b19f4134060e" title="Method to check clusters incompatibilities. " alt="" coords="280,5,455,47"/>
+<area shape="rect" id="node6" href="$classtrim_al_manager.html#a3563c4066ac0340d27cc72508bf8949b" title="Method to check incompatibilities related to how the algorithm should treat stop codons. " alt="" coords="259,136,476,177"/>
+<area shape="rect" id="node7" href="$classtrim_al_manager.html#aa96711af8011305f73b3caee46ae0fd8" title="As some thresholds are incompatible between them, we check their incompatibilities. " alt="" coords="258,202,477,258"/>
+<area shape="rect" id="node8" href="$classtrim_al_manager.html#a603ce4f4aefaf60dc1d8db83490d44ac" title="Method to check the inFile argument incompatibilities. " alt="" coords="287,283,447,324"/>
+<area shape="rect" id="node9" href="$classtrim_al_manager.html#ab5b035ec7491b19958cf6f2e222e4b01" title="Method to check max identity incompatibilities. " alt="" coords="266,348,469,389"/>
+<area shape="rect" id="node10" href="$classtrim_al_manager.html#a0e099828be74d3ca0068b951d6578407" title="Method to check incompatibilities with select cols and select seqs arguments. " alt="" coords="288,414,447,470"/>
+<area shape="rect" id="node11" href="$classtrim_al_manager.html#a10cf2679904a3707519d3ddac171ce06" title="Method to check statistics incompatibilities. " alt="" coords="288,495,447,536"/>
+<area shape="rect" id="node12" href="$classtrim_al_manager.html#aa6149bd13ebbf5e0c4b9c81919304796" title="Method to check incompatibilities with manual thresholds. " alt="" coords="273,560,462,601"/>
+<area shape="rect" id="node13" href="$classtrim_al_manager.html#aec4c53f46124bfd0003655131646676f" title="trimAlManager::check\l_vcf_incompatibility" alt="" coords="293,691,442,732"/>
+<area shape="rect" id="node15" href="$classtrim_al_manager.html#a2cc3ed142e9da213332ada3a2b39dea0" title="Method to check windows incompatibilities. " alt="" coords="277,625,457,667"/>
+<area shape="rect" id="node3" href="$classreporting_1_1report_manager.html#a6d122e673144584e0869bd33b8a5c1c6" title="Method to report an Error. &#160;It will be displayed if Level &#160;is equal or higher to VerboseLevel::ERROR..." alt="" coords="548,316,711,357"/>
+<area shape="rect" id="node5" href="$class_alignment.html#af9c7aec9082ef16573d7fe37a93a638a" title="Number of sequences getter. " alt="" coords="539,13,720,39"/>
+<area shape="rect" id="node14" href="$classreporting_1_1report_manager.html#ab093ae2e909308ebb4118d6f6a03f5fd" title="Method to report an Error. It will be displayed if Level &#160;is equal or higher to VerboseLevel::ERROR. " alt="" coords="548,691,711,732"/>
+</map>

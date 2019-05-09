@@ -1,0 +1,27 @@
+.image
+{
+	text-align: center;
+}
+
+#nav-tree a
+{
+    margin:10px;
+    padding:0px;
+}
+
+pre.fragment {
+    border: 1px solid rgb(229, 196, 196);
+    background-color: rgb(253, 251, 251);
+    padding: 4px 6px;
+    margin: 4px 8px 4px 2px;
+    overflow: auto;
+    word-wrap: break-word;
+    font-size:  9pt;
+    line-height: 125%;
+    font-family: monospace, fixed;
+    font-size: 105%;
+}
+
+h1.glow, h2.glow, h3.glow, h4.glow, h5.glow, h6.glow {
+	text-shadow: 0 0 15px rgba(255, 93, 90, 0.36);
+}

@@ -1,0 +1,11 @@
+<map id="FormatHandling::FormatManager::loadAlignment" name="FormatHandling::FormatManager::loadAlignment">
+<area shape="rect" id="node2" href="$classtrim_al_manager.html#ae49bc2cb7f90419296da65a23df39c8d" title="Method to parse the backtranslation argument. " alt="" coords="575,5,718,47"/>
+<area shape="rect" id="node5" href="$classtrim_al_manager.html#a63dad1ad106b0fa09351cd5981b37aeb" title="Method to parse the force select argument. " alt="" coords="575,71,718,112"/>
+<area shape="rect" id="node6" href="$classtrim_al_manager.html#a9580aa82de8aba6794647a36c0416a33" title="Method to parse the input file argument. " alt="" coords="283,125,468,151"/>
+<area shape="rect" id="node7" href="$class_format_handling_1_1_format_manager.html#a853678a6e07f67da8cf7b77795b297be" title="Function that takes multiple files, loads them and saves in a cumulus of formats, using an outPattern..." alt="" coords="267,176,484,217"/>
+<area shape="rect" id="node8" href="$read_al_main_8cpp.html#a0ddf1224851353fc92bfbff6f499fa97" title="main" alt="" coords="621,217,672,243"/>
+<area shape="rect" id="node9" href="$classstatistics_1_1_consistency.html#a8f7ddf54c5be583916b983ede82d5b88" title="Method to compare a set of MSA, all containing the same sequences and residues. The number of residue..." alt="" coords="297,293,453,335"/>
+<area shape="rect" id="node3" href="$classtrim_al_manager.html#af3b0625b6bcc6df5978e63530a5956e6" title="Method to parse arguments into usable structure in trimal. " alt="" coords="809,107,1019,134"/>
+<area shape="rect" id="node4" href="$trim_al_main_8cpp.html#a0ddf1224851353fc92bfbff6f499fa97" title="main" alt="" coords="1067,107,1117,134"/>
+<area shape="rect" id="node10" href="$classtrim_al_manager.html#a12b7cef964ef258fe7621da44867c51f" title="Method to check if multiple files comparison has been set correctly. It also perform some calculation..." alt="" coords="532,271,761,298"/>
+</map>

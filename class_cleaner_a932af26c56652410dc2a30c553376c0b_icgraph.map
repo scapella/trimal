@@ -1,0 +1,7 @@
+<map id="Cleaner::removeSequences" name="Cleaner::removeSequences">
+<area shape="rect" id="node2" href="$classtrim_al_manager.html#a10536f715945a1a45f1df33f7cedc81e" title="Method to trim or reduce the number of sequences in an alignment. It performs one or none of the foll..." alt="" coords="236,13,449,39"/>
+<area shape="rect" id="node3" href="$classtrim_al_manager.html#adc529dd893ed4e9df6f3ddbd58776068" title="Core Method of the program. This is where almost all cleaning methods are called from. " alt="" coords="497,5,643,47"/>
+<area shape="rect" id="node4" href="$classtrim_al_manager.html#a7c641a1feff33d401b4ea5c82e989289" title="trimAlManager::innerPerform" alt="" coords="691,13,879,39"/>
+<area shape="rect" id="node5" href="$classtrim_al_manager.html#abe8d2841455c644dc9c7d1294b82b00f" title="Method to perform the analysis if all checks have passed. " alt="" coords="927,13,1085,39"/>
+<area shape="rect" id="node6" href="$trim_al_main_8cpp.html#a0ddf1224851353fc92bfbff6f499fa97" title="main" alt="" coords="1133,13,1184,39"/>
+</map>

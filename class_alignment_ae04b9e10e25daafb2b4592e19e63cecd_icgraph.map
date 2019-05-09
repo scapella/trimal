@@ -1,0 +1,13 @@
+<map id="Alignment::updateSequencesAndResiduesNums" name="Alignment::updateSequencesAndResiduesNums">
+<area shape="rect" id="node1" title="Updates the sequence number and residue number based on saveResidues and saveSequences." alt="" coords="1288,57,1480,98"/>
+<area shape="rect" id="node2" href="$class_cleaner.html#ac8e92eb8ae8a5caf021801e56cdb9faf" title="Method to remove columns, expressed as ranges." alt="" coords="1057,64,1228,91"/>
+<area shape="rect" id="node8" href="$class_cleaner.html#ab7f5b746b97697181f4cd06063cbb49a" title="Method to detect right and left borders. Borders are the first column found with no gaps...." alt="" coords="1045,119,1240,145"/>
+<area shape="rect" id="node10" href="$class_cleaner.html#a932af26c56652410dc2a30c553376c0b" title="Method to remove sequences, expressed as ranges." alt="" coords="1051,9,1234,36"/>
+<area shape="rect" id="node3" href="$classtrim_al_manager.html#aebfd21b0435302f0e4fc45a068d1b6ee" title="Method to trim the alignment using non automatic methods:" alt="" coords="789,57,992,98"/>
+<area shape="rect" id="node4" href="$classtrim_al_manager.html#adc529dd893ed4e9df6f3ddbd58776068" title="Core Method of the program. This is where almost all cleaning methods are called from." alt="" coords="571,41,716,82"/>
+<area shape="rect" id="node5" href="$classtrim_al_manager.html#abe8d2841455c644dc9c7d1294b82b00f" title="Method to perform the analysis if all checks have passed." alt="" coords="104,89,263,116"/>
+<area shape="rect" id="node7" href="$classtrim_al_manager.html#ac5795f93b3a2b51bf5d8dddd63b89f73" title=" " alt="" coords="311,89,503,116"/>
+<area shape="rect" id="node6" href="$trim_al_main_8cpp.html#a0ddf1224851353fc92bfbff6f499fa97" title=" " alt="" coords="5,89,56,116"/>
+<area shape="rect" id="node9" href="$classtrim_al_manager.html#a8ed19b851162fa24a1da66f7e54099e3" title=" " alt="" coords="551,115,736,157"/>
+<area shape="rect" id="node11" href="$classtrim_al_manager.html#a10536f715945a1a45f1df33f7cedc81e" title="Method to trim or reduce the number of sequences in an alignment. It performs one or none of the foll..." alt="" coords="784,5,997,32"/>
+</map>

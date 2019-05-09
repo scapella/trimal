@@ -1,0 +1,12 @@
+<map id="Alignment::updateSequencesAndResiduesNums" name="Alignment::updateSequencesAndResiduesNums">
+<area shape="rect" id="node2" href="$class_cleaner.html#ac8e92eb8ae8a5caf021801e56cdb9faf" title="Method to remove columns, expressed as ranges. " alt="" coords="251,64,422,91"/>
+<area shape="rect" id="node8" href="$class_cleaner.html#ab7f5b746b97697181f4cd06063cbb49a" title="Method to detect right and left borders. Borders are the first column found with no gaps..." alt="" coords="485,123,680,149"/>
+<area shape="rect" id="node10" href="$class_cleaner.html#a932af26c56652410dc2a30c553376c0b" title="Method to remove sequences, expressed as ranges. " alt="" coords="245,9,428,36"/>
+<area shape="rect" id="node3" href="$classtrim_al_manager.html#aebfd21b0435302f0e4fc45a068d1b6ee" title="Method to trim the alignment using non automatic methods: " alt="" coords="481,57,684,98"/>
+<area shape="rect" id="node4" href="$classtrim_al_manager.html#adc529dd893ed4e9df6f3ddbd58776068" title="Core Method of the program. This is where almost all cleaning methods are called from. " alt="" coords="757,50,903,91"/>
+<area shape="rect" id="node5" href="$classtrim_al_manager.html#a7c641a1feff33d401b4ea5c82e989289" title="trimAlManager::innerPerform" alt="" coords="971,91,1159,117"/>
+<area shape="rect" id="node6" href="$classtrim_al_manager.html#abe8d2841455c644dc9c7d1294b82b00f" title="Method to perform the analysis if all checks have passed. " alt="" coords="1207,91,1365,117"/>
+<area shape="rect" id="node7" href="$trim_al_main_8cpp.html#a0ddf1224851353fc92bfbff6f499fa97" title="main" alt="" coords="1413,91,1464,117"/>
+<area shape="rect" id="node9" href="$classtrim_al_manager.html#a8ed19b851162fa24a1da66f7e54099e3" title="trimAlManager::postprocess\l_alignment" alt="" coords="737,115,923,157"/>
+<area shape="rect" id="node11" href="$classtrim_al_manager.html#a10536f715945a1a45f1df33f7cedc81e" title="Method to trim or reduce the number of sequences in an alignment. It performs one or none of the foll..." alt="" coords="476,5,689,32"/>
+</map>

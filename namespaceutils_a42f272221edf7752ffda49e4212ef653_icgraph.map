@@ -1,0 +1,8 @@
+<map id="utils::copyVect" name="utils::copyVect">
+<area shape="rect" id="node2" href="$classstatistics_1_1_gaps.html#aec7e27fe863551ab270f5160d13e17dd" title="statistics::Gaps::printGaps\lColumns" alt="" coords="163,5,341,47"/>
+<area shape="rect" id="node3" href="$classstatistics_1_1_manager.html#a48e846c0c59f08e43e5483a8eaa2e586" title="Wrapper to Statistics::Gaps::printGapsColumns() It calls to calculateGapStats() to make sure the info..." alt="" coords="389,5,583,47"/>
+<area shape="rect" id="node4" href="$classtrim_al_manager.html#afc48b86f5ae35b9a5e721b65c58bf610" title="Method to print statistics requested. " alt="" coords="631,5,769,47"/>
+<area shape="rect" id="node5" href="$classtrim_al_manager.html#a7c641a1feff33d401b4ea5c82e989289" title="trimAlManager::innerPerform" alt="" coords="817,13,1005,39"/>
+<area shape="rect" id="node6" href="$classtrim_al_manager.html#abe8d2841455c644dc9c7d1294b82b00f" title="Method to perform the analysis if all checks have passed. " alt="" coords="1053,13,1212,39"/>
+<area shape="rect" id="node7" href="$trim_al_main_8cpp.html#a0ddf1224851353fc92bfbff6f499fa97" title="main" alt="" coords="1260,13,1311,39"/>
+</map>

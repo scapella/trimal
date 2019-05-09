@@ -1,0 +1,4 @@
+<map id="statistics::similarityMatrix::defaultNTDegeneratedSimMatrix" name="statistics::similarityMatrix::defaultNTDegeneratedSimMatrix">
+<area shape="rect" id="node2" href="$classstatistics_1_1similarity_matrix.html#a46d6657734fa07a8c7ee3bbee8145c2c" title="Method to allocate memory for the similiarity matrix. " alt="" coords="273,5,444,47"/>
+<area shape="rect" id="node3" href="$classstatistics_1_1similarity_matrix.html#a3f33f4b18bb1da1887ba666c74bf9a47" title="Method to deallocate memory allocated on the similarityMatrix::memoryAllocation method. It makes use of the numPositions to effectively remove the memory. " alt="" coords="492,5,663,47"/>
+</map>

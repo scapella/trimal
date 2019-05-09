@@ -1,0 +1,6 @@
+<map id="statistics::similarityMatrix::defaultNTDegeneratedSimMatrix" name="statistics::similarityMatrix::defaultNTDegeneratedSimMatrix">
+<area shape="rect" id="node2" href="$classtrim_al_manager.html#a3e8b2b5b4e1a44c498c47448840b6c69" title="Method to create, load and use a similarity matrix, depending on alignment residue nature..." alt="" coords="273,5,444,47"/>
+<area shape="rect" id="node3" href="$classtrim_al_manager.html#a7c641a1feff33d401b4ea5c82e989289" title="trimAlManager::innerPerform" alt="" coords="492,13,680,39"/>
+<area shape="rect" id="node4" href="$classtrim_al_manager.html#abe8d2841455c644dc9c7d1294b82b00f" title="Method to perform the analysis if all checks have passed. " alt="" coords="728,13,887,39"/>
+<area shape="rect" id="node5" href="$trim_al_main_8cpp.html#a0ddf1224851353fc92bfbff6f499fa97" title="main" alt="" coords="935,13,985,39"/>
+</map>

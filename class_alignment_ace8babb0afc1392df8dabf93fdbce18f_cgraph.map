@@ -1,0 +1,8 @@
+<map id="Alignment::prepareCodingSequence" name="Alignment::prepareCodingSequence">
+<area shape="rect" id="node1" title="Method to check if the CDS file is correct. Based on nature of residues: DNA/RNA (Most of the residue..." alt="" coords="5,74,177,115"/>
+<area shape="rect" id="node2" href="$class_alignment.html#a1bc7622776f3935f6cb9d3c895e43a29" title="Alignment type getter. &#160;&#160;See SequenceTypes." alt="" coords="225,5,419,32"/>
+<area shape="rect" id="node4" href="$class_alignment.html#a66fdd6d16ef1ccb5e8da24c6e20feca7" title="Number of sequences getter." alt="" coords="231,56,413,83"/>
+<area shape="rect" id="node5" href="$class_alignment.html#ab44caa194f61bbbabf7572f3a70cf2fc" title="Getter for the sequences names." alt="" coords="237,107,407,133"/>
+<area shape="rect" id="node6" href="$classreporting_1_1report_manager.html#a6d122e673144584e0869bd33b8a5c1c6" title="Method to report an Error. &#160;It will be displayed if Level &#160;is equal or higher to VerboseLevel::ERROR." alt="" coords="241,158,403,199"/>
+<area shape="rect" id="node3" href="$namespaceutils.html#aab52f9515717f06cafd6ab7fe2ebdcef" title="Checks an alignment type." alt="" coords="467,5,643,32"/>
+</map>

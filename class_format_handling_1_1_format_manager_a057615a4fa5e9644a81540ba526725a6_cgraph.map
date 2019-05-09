@@ -1,0 +1,7 @@
+<map id="FormatHandling::FormatManager::loadAlignment" name="FormatHandling::FormatManager::loadAlignment">
+<area shape="rect" id="node2" href="$class_format_handling_1_1_format_manager.html#a850c827a60ae4ee1e5bb34b7485f0412" title="FormatHandling::FormatManager\l::getFormatFromFile" alt="" coords="267,96,480,137"/>
+<area shape="rect" id="node5" href="$classreporting_1_1report_manager.html#ab093ae2e909308ebb4118d6f6a03f5fd" title="Method to report an Error. It will be displayed if Level &#160;is equal or higher to VerboseLevel::ERROR. " alt="" coords="789,129,952,171"/>
+<area shape="rect" id="node6" href="$class_format_handling_1_1_base_format_handler.html#a481d8f3ff416366bff9516f55620c9f4" title="Function to load a file in the current format and return an alignment object. " alt="" coords="277,239,470,280"/>
+<area shape="rect" id="node3" href="$class_format_handling_1_1_base_format_handler.html#a6186050eb30aec3f4fa7e1c834f2add1" title="Function to check if a file is in the implemented format. " alt="" coords="538,5,731,47"/>
+<area shape="rect" id="node4" href="$class_format_handling_1_1_format_manager.html#a0b032188aa2d883026e547ea665c9b45" title="FormatHandling::FormatManager\l::getNonEmptyFile" alt="" coords="528,71,741,112"/>
+</map>

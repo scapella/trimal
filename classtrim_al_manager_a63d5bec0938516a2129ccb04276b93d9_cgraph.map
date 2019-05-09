@@ -1,0 +1,26 @@
+<map id="trimAlManager::svg_stats_out" name="trimAlManager::svg_stats_out">
+<area shape="rect" id="node2" href="$class_alignment.html#a724218d5e7d168974d9abcafcde632a1" title="Alignment::statSVG" alt="" coords="188,327,327,354"/>
+<area shape="rect" id="node3" href="$classstatistics_1_1_gaps.html#ab5b60db326475f8adc68b130e22b3963" title="statistics::Gaps::getGaps\lWindow" alt="" coords="1003,45,1173,87"/>
+<area shape="rect" id="node9" href="$classstatistics_1_1_similarity.html#a1b65c85328f09fa0637365d11fb386b4" title="This methods returns a pointer to conservationWindow&#39;s vector. " alt="" coords="375,287,547,328"/>
+<area shape="rect" id="node21" href="$classstatistics_1_1_consistency.html#ad3a0a265cb9460cd4633b027fe2437c9" title="Stat Getter &#160;. " alt="" coords="383,352,539,393"/>
+<area shape="rect" id="node24" href="$namespaceutils.html#a73f038c379c13d23e3220afaa14f9983" title="Quicksort sorting method. " alt="" coords="407,455,514,482"/>
+<area shape="rect" id="node4" href="$classstatistics_1_1_gaps.html#ad812a924cf5e3f900aad3ed4a9664300" title="statistics::Gaps::isDefined\lWindow" alt="" coords="1233,5,1410,47"/>
+<area shape="rect" id="node5" href="$classstatistics_1_1_gaps.html#aee36b772767467cdba2061df2305e85d" title="statistics::Gaps::applyWindow" alt="" coords="1221,71,1421,98"/>
+<area shape="rect" id="node6" href="$classreporting_1_1report_manager.html#a6d122e673144584e0869bd33b8a5c1c6" title="Method to report an Error. &#160;It will be displayed if Level &#160;is equal or higher to VerboseLevel::ERROR..." alt="" coords="1476,375,1639,416"/>
+<area shape="rect" id="node7" href="$namespaceutils.html#aac322cd1761fddedec8a5792e358eb32" title="Vector initialization. " alt="" coords="1507,122,1608,149"/>
+<area shape="rect" id="node8" href="$namespaceutils.html#ad50731aeb3c8f79ed8372516210dfc9d" title="Round double to integer method. " alt="" coords="1507,71,1608,98"/>
+<area shape="rect" id="node10" href="$classstatistics_1_1_similarity.html#a4446bf070a858952dac45f5705d16780" title="Returns if a windows size value has been defined or not. " alt="" coords="604,221,741,263"/>
+<area shape="rect" id="node11" href="$classstatistics_1_1_similarity.html#adcb5627b9704850e85433fc40c19db17" title="Allows us compute the conservationWindow&#39;s values. " alt="" coords="604,287,741,328"/>
+<area shape="rect" id="node12" href="$classstatistics_1_1_similarity.html#ae69ec0e79912ae23c8cfe97358c4794d" title="Method to calculate the similarity values of a alignment matrix. " alt="" coords="808,235,945,276"/>
+<area shape="rect" id="node13" href="$classstatistics_1_1_similarity.html#a75bd235b3207235eefa7b52dff063c76" title="Computes the matrix identity between alignment&#39;s columns. " alt="" coords="1007,176,1169,217"/>
+<area shape="rect" id="node14" href="$class_alignment.html#a3f8f2eafd37c9b5bc275b9889a2de96a" title="Alignment type getter. &#160;&#160;See SequenceTypes. " alt="" coords="1225,242,1418,269"/>
+<area shape="rect" id="node16" href="$namespaceutils.html#a6286fde6f4dd58ef0cfa9d55341b72f8" title="utils::toUpper" alt="" coords="1693,267,1793,294"/>
+<area shape="rect" id="node17" href="$classstatistics_1_1_manager.html#a1969a416d3020d25daa56de6c5e305db" title="Method to handle gap stat calculation It checks if the gaps submodule has been created, otherwise, creates it. " alt="" coords="1019,111,1157,152"/>
+<area shape="rect" id="node20" href="$classstatistics_1_1similarity_matrix.html#a0cdb3ed14678b442824e84e6385e8f84" title="Method to get the similarity distance between two residues, A and B Characters provided must be both ..." alt="" coords="1003,344,1173,385"/>
+<area shape="rect" id="node15" href="$namespaceutils.html#aab52f9515717f06cafd6ab7fe2ebdcef" title="Checks an alignment type. " alt="" coords="1469,242,1645,269"/>
+<area shape="rect" id="node18" href="$classstatistics_1_1_gaps.html#a2f1d71bafa5e44e5f2c96771cf2a26ed" title="statistics::Gaps::Gaps" alt="" coords="1245,122,1398,149"/>
+<area shape="rect" id="node19" href="$classstatistics_1_1_gaps.html#aa3526494d5100e062daa4afba755d0b1" title="statistics::Gaps::Calculate\lVectors" alt="" coords="1233,173,1410,215"/>
+<area shape="rect" id="node22" href="$classstatistics_1_1_consistency.html#af2c3e79d22ab32c549e3e41cd56afe72" title="Method to check wether or not a window has been applied. " alt="" coords="595,352,751,393"/>
+<area shape="rect" id="node23" href="$classstatistics_1_1_consistency.html#a6fe619f559c7271eedd869581684f479" title="Applies a new window to the alignment. " alt="" coords="799,461,955,503"/>
+<area shape="rect" id="node25" href="$namespaceutils.html#a3377ecde55631d1bbc4956e5923b7469" title="Swapping elements method. " alt="" coords="630,469,715,495"/>
+</map>

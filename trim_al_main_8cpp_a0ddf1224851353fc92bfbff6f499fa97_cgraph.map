@@ -1,0 +1,51 @@
+<map id="main" name="main">
+<area shape="rect" id="node2" href="$classtrim_al_manager.html#af3b0625b6bcc6df5978e63530a5956e6" title="Method to parse arguments into usable structure in trimal. " alt="" coords="111,1442,320,1469"/>
+<area shape="rect" id="node49" href="$classtrim_al_manager.html#abe8d2841455c644dc9c7d1294b82b00f" title="Method to perform the analysis if all checks have passed. " alt="" coords="136,1493,295,1519"/>
+<area shape="rect" id="node50" href="$classtrim_al_manager.html#a748b08a1ec5cd214de804ed0d4234a6e" title="Method to process the information obtained by trimAlManager::parseArguments It checks for argument in..." alt="" coords="104,1543,327,1570"/>
+<area shape="rect" id="node3" href="$classtrim_al_manager.html#a38a41ca4d2e607207317c98d54d5919f" title="Method to parse the verbosity argument. This check is done before any other check. This is due to trimAl not performing any action if any help argument has been provided. . " alt="" coords="393,5,559,47"/>
+<area shape="rect" id="node4" href="$classtrim_al_manager.html#a09d07645fa0057989875f2b2d25ec4d7" title="Method to show the menu of the program. " alt="" coords="637,103,784,130"/>
+<area shape="rect" id="node5" href="$classtrim_al_manager.html#a5716d2e2a6d21b7f2bacbf284b5bd75b" title="Method to show the examples information about the program. " alt="" coords="625,158,796,185"/>
+<area shape="rect" id="node6" href="$classtrim_al_manager.html#a29848e9632746b1cc2b42d36bf54a35c" title="Method to parse information arguments as help and menu. " alt="" coords="407,123,545,164"/>
+<area shape="rect" id="node7" href="$classtrim_al_manager.html#a9580aa82de8aba6794647a36c0416a33" title="Method to parse the input file argument. " alt="" coords="383,239,569,266"/>
+<area shape="rect" id="node8" href="$classtrim_al_manager.html#a1e558694873d6c4a1a0653d1fbbfe919" title="Method to parse the output file pattern. " alt="" coords="410,291,542,332"/>
+<area shape="rect" id="node9" href="$classtrim_al_manager.html#a476864552caf696b9fcf0e974ea142e7" title="Method to parse the output formats as &#45;fasta &#45;clustal or &#45;formats [...]. " alt="" coords="409,356,543,397"/>
+<area shape="rect" id="node10" href="$classtrim_al_manager.html#afbfb52579ec2193838a7ec8b0640d4c8" title="Method to parse the html output file. " alt="" coords="407,421,545,463"/>
+<area shape="rect" id="node11" href="$classtrim_al_manager.html#ad5a963eacb7ac1d53bc9fdea038c3d4c" title="Method to parse the svg output file. " alt="" coords="409,487,543,528"/>
+<area shape="rect" id="node12" href="$classtrim_al_manager.html#a13b1c52c612f6883e7857c846567dfa2" title="Method to parse the comparset argument. " alt="" coords="385,552,567,593"/>
+<area shape="rect" id="node13" href="$classtrim_al_manager.html#a63dad1ad106b0fa09351cd5981b37aeb" title="Method to parse the force select argument. " alt="" coords="405,617,547,659"/>
+<area shape="rect" id="node14" href="$classtrim_al_manager.html#ae49bc2cb7f90419296da65a23df39c8d" title="Method to parse the backtranslation argument. " alt="" coords="405,683,547,724"/>
+<area shape="rect" id="node15" href="$classtrim_al_manager.html#a86d3773fe76d09cdb81c38b91f9c29c8" title="Method to parse stats arguments. " alt="" coords="405,748,547,789"/>
+<area shape="rect" id="node16" href="$classtrim_al_manager.html#a454d5f95fc13ecbd76a06dc2d5f2b325" title="Method to parse the svg stats output file. " alt="" coords="409,813,543,855"/>
+<area shape="rect" id="node17" href="$classtrim_al_manager.html#a6609b8fdfb077e22346525d415fa8399" title="Method to parse InternalBenchmarker output argument. Need to be checked before any other argument..." alt="" coords="387,879,565,920"/>
+<area shape="rect" id="node18" href="$classtrim_al_manager.html#a64cc70f78e37b1dfa11627252d23edaa" title="Method to parse the custom matrix argument. " alt="" coords="401,944,551,985"/>
+<area shape="rect" id="node19" href="$classtrim_al_manager.html#adf0cefe73cff49a92be88e1d9f411f69" title="Method to parse the column numbering argument. " alt="" coords="401,1009,551,1051"/>
+<area shape="rect" id="node20" href="$classtrim_al_manager.html#ac6a2d3ac0ca35a96cc586eb1bcd138cc" title="Method to parse the gap threshold argument. " alt="" coords="405,1075,547,1116"/>
+<area shape="rect" id="node21" href="$classtrim_al_manager.html#a95d1baa681d37e184671ea3864c48b8e" title="Method to parse the similarity threshold argument. " alt="" coords="393,1140,559,1181"/>
+<area shape="rect" id="node22" href="$classtrim_al_manager.html#a3cd2a65078631dee92d1f7569bcf55bf" title="Method to parse the consistency threshold argument. " alt="" coords="384,1205,568,1247"/>
+<area shape="rect" id="node23" href="$classtrim_al_manager.html#a3d8d62807179a223bd659971f51d900c" title="Method to parse the similarity threshold argument. " alt="" coords="382,1271,570,1312"/>
+<area shape="rect" id="node24" href="$classtrim_al_manager.html#afb1bf3ae0e2d94723148fc230f3a4593" title="Method to parse the Window argument. " alt="" coords="397,1336,555,1377"/>
+<area shape="rect" id="node25" href="$classtrim_al_manager.html#a5980320bab9dad57cf8f58e15a776b9a" title="Method to parse the Gap Window argument. " alt="" coords="409,1401,543,1443"/>
+<area shape="rect" id="node26" href="$classtrim_al_manager.html#a2f7ba69e1fbc41fbd1961bbb45af89f4" title="Method to parse the Similarity Window argument. " alt="" coords="393,1467,559,1508"/>
+<area shape="rect" id="node27" href="$classtrim_al_manager.html#aca45dce846182c57b730b1884327d588" title="Method to parse the Consistency Window argument. " alt="" coords="384,1532,568,1573"/>
+<area shape="rect" id="node28" href="$classtrim_al_manager.html#a5dd32c74b08d644c62d1f1284bf5f97d" title="Method to parse the nogaps argument. " alt="" coords="395,1597,557,1639"/>
+<area shape="rect" id="node29" href="$classtrim_al_manager.html#a759d84bf6476cd9ffd163e29a597739e" title="Method to parse the noallgaps argument. " alt="" coords="402,1663,550,1704"/>
+<area shape="rect" id="node30" href="$classtrim_al_manager.html#a3af7df38375e6dd8057b0cd6b2c1949b" title="Method to parse the gappyout argument. " alt="" coords="401,1728,551,1769"/>
+<area shape="rect" id="node31" href="$classtrim_al_manager.html#a53595d8600618e068b24dd8ebadb1d50" title="Method to parse the strict argument. " alt="" coords="405,1793,547,1835"/>
+<area shape="rect" id="node32" href="$classtrim_al_manager.html#a074bc91f174929ae81d11825bbd27839" title="Method to parse the strictplus argument. " alt="" coords="405,1859,547,1900"/>
+<area shape="rect" id="node33" href="$classtrim_al_manager.html#a25b536afb6a7177b2ac7b0fd6459b10d" title="Method to parse the automated1 argument. " alt="" coords="385,1924,567,1965"/>
+<area shape="rect" id="node34" href="$classtrim_al_manager.html#ab92c44fda5068eab3f12312f377d5909" title="Method to parse the residue overlap argument. " alt="" coords="398,1989,554,2031"/>
+<area shape="rect" id="node35" href="$classtrim_al_manager.html#ab69c55b2d18c7d942284e99c880e0dd0" title="Method to parse the sequence overlap argument. " alt="" coords="391,2055,561,2096"/>
+<area shape="rect" id="node36" href="$classtrim_al_manager.html#a7819943c378c6c7720da8edb4ab24b81" title="Method to parse que select sequences argument. " alt="" coords="405,2120,547,2161"/>
+<area shape="rect" id="node37" href="$classtrim_al_manager.html#aba675334070d161ecd930784f553cf0a" title="Method to parse the select columns argument. " alt="" coords="401,2185,551,2227"/>
+<area shape="rect" id="node38" href="$classtrim_al_manager.html#ae516b3f4c9fa358a18c4237da3dbbc05" title="trimAlManager::remove\l_duplicates_argument" alt="" coords="397,2251,555,2292"/>
+<area shape="rect" id="node39" href="$classtrim_al_manager.html#a43b9d013ea8453535b6f364d4afd0a36" title="Method to parse the max identity argument. " alt="" coords="407,2316,545,2357"/>
+<area shape="rect" id="node40" href="$classtrim_al_manager.html#adfadb6051b5e3bba6889fc8bbfde20bc" title="Method to parse the clusters argument. " alt="" coords="396,2381,556,2423"/>
+<area shape="rect" id="node41" href="$classtrim_al_manager.html#ae2e2242a622de36a525fc62e3348de89" title="Method to parse the keepSeqs argument. " alt="" coords="405,2447,547,2488"/>
+<area shape="rect" id="node42" href="$classtrim_al_manager.html#ac9863d1faa5e02965588cc318c43343b" title="Method to parse the keepHeader argument. " alt="" coords="405,2512,547,2553"/>
+<area shape="rect" id="node43" href="$classtrim_al_manager.html#a655c0018318c9cb496cf577b8d47c0fd" title="Method to parse ignore by stop codon argument. " alt="" coords="397,2577,555,2619"/>
+<area shape="rect" id="node44" href="$classtrim_al_manager.html#abc647ee2f65bf75cdfe74082af4243e7" title="Method to parse split by stop codon argument. " alt="" coords="387,2643,565,2684"/>
+<area shape="rect" id="node45" href="$classtrim_al_manager.html#a6dfa0264ed2e3cdfea4324a3582d5d4a" title="Method to parse the Block Size argument. " alt="" coords="403,2708,549,2749"/>
+<area shape="rect" id="node46" href="$classtrim_al_manager.html#a707eba5616275d3ce64f5c4c7e49ae97" title="Method to parse the complementary argument. " alt="" coords="375,2773,577,2815"/>
+<area shape="rect" id="node47" href="$classtrim_al_manager.html#a18c91f1be4ab4ad441741f9879cc11bc" title="Method to parse the terminal only argument. " alt="" coords="396,2839,556,2880"/>
+<area shape="rect" id="node48" href="$classtrim_al_manager.html#a0c69a02374e715d868d0a488d4a942ab" title="Method to parse vcf argument. " alt="" coords="410,2904,542,2945"/>
+</map>

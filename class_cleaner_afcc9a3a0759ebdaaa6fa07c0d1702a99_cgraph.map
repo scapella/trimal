@@ -1,0 +1,11 @@
+<map id="Cleaner::cleanStrict" name="Cleaner::cleanStrict">
+<area shape="rect" id="node2" href="$class_alignment.html#aeeee94970a445f32aa79646c249befef" title="Copy Constructor. &#160;&#160;The copy constructor does not make a copy of all structures present on the origin..." alt="" coords="215,78,361,105"/>
+<area shape="rect" id="node8" href="$class_cleaner.html#ada8ad076dd037f00ae3f4fd17762641f" title="Method that identifies and removes columns and sequences composed only by gaps. " alt="" coords="191,133,385,175"/>
+<area shape="rect" id="node10" href="$namespaceutils.html#ad50731aeb3c8f79ed8372516210dfc9d" title="Round double to integer method. " alt="" coords="237,199,339,226"/>
+<area shape="rect" id="node3" href="$class_cleaner.html#afe42cb635ddd6bd968ae57e378deaac8" title="Copy Constructor &#45; Called by Alignment. " alt="" coords="455,19,575,46"/>
+<area shape="rect" id="node4" href="$classstatistics_1_1_manager.html#aee28602da015edb0880d59ce4c0f855d" title="statistics::Manager\l::Manager" alt="" coords="448,71,581,112"/>
+<area shape="rect" id="node5" href="$classstatistics_1_1_similarity.html#afecab92459785c7568511217969f6cde" title="statistics::Similarity\l::Similarity" alt="" coords="653,5,791,47"/>
+<area shape="rect" id="node6" href="$classstatistics_1_1_consistency.html#ae39d2aae825d263ac8c3198782b824d2" title="Copy constructor. " alt="" coords="644,71,800,112"/>
+<area shape="rect" id="node7" href="$classstatistics_1_1_gaps.html#a0233d71123523698b0bbf6fe6119b630" title="statistics::Gaps::Gaps" alt="" coords="645,137,799,163"/>
+<area shape="rect" id="node9" href="$classreporting_1_1report_manager.html#a75a240a78f31ba479892a9a0f53996fa" title="Method to report a Warning. &#160;It will be displayed if Level &#160;is equal or higher to VerboseLevel::WARNI..." alt="" coords="433,136,596,177"/>
+</map>

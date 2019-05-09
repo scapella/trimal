@@ -1,0 +1,13 @@
+<map id="statistics::similarityMatrix::memoryDeletion" name="statistics::similarityMatrix::memoryDeletion">
+<area shape="rect" id="node2" href="$classstatistics_1_1similarity_matrix.html#a8d3f892581b552e6e5321ce1ff073624" title="Method to load a custom matrix. " alt="" coords="467,5,638,47"/>
+<area shape="rect" id="node7" href="$classstatistics_1_1similarity_matrix.html#a46d6657734fa07a8c7ee3bbee8145c2c" title="Method to allocate memory for the similiarity matrix. " alt="" coords="224,119,395,160"/>
+<area shape="rect" id="node12" href="$classstatistics_1_1similarity_matrix.html#a5b05a2eb7b14bbf6cd71b8f739158f1b" title="Destructor. " alt="" coords="224,184,395,225"/>
+<area shape="rect" id="node3" href="$classtrim_al_manager.html#a3e8b2b5b4e1a44c498c47448840b6c69" title="Method to create, load and use a similarity matrix, depending on alignment residue nature..." alt="" coords="711,136,881,177"/>
+<area shape="rect" id="node4" href="$classtrim_al_manager.html#a7c641a1feff33d401b4ea5c82e989289" title="trimAlManager::innerPerform" alt="" coords="929,143,1117,170"/>
+<area shape="rect" id="node5" href="$classtrim_al_manager.html#abe8d2841455c644dc9c7d1294b82b00f" title="Method to perform the analysis if all checks have passed. " alt="" coords="1165,143,1324,170"/>
+<area shape="rect" id="node6" href="$trim_al_main_8cpp.html#a0ddf1224851353fc92bfbff6f499fa97" title="main" alt="" coords="1372,143,1423,170"/>
+<area shape="rect" id="node8" href="$classstatistics_1_1similarity_matrix.html#a2788d7d1bb700b9e59d654fb24f6172c" title="Method to load alternative similarity matrices also included on the suite. Currently, only one type of alternative matrix is available: &#160;matrix_code: 1 datatype SequenceTypes::AA. " alt="" coords="455,71,650,112"/>
+<area shape="rect" id="node9" href="$classstatistics_1_1similarity_matrix.html#a6d239debb5982c5cef97308403f658b7" title="Method to load the default AA similarity matrix. " alt="" coords="467,136,638,177"/>
+<area shape="rect" id="node10" href="$classstatistics_1_1similarity_matrix.html#abcee67b7f79ef0975ca006647198f5d7" title="Method to load the default DEG NT similarity matrix. " alt="" coords="443,201,663,243"/>
+<area shape="rect" id="node11" href="$classstatistics_1_1similarity_matrix.html#a72f692ab289725eef0702bfd7e93a38a" title="Method to load the default NT similarity matrix. " alt="" coords="467,267,638,308"/>
+</map>

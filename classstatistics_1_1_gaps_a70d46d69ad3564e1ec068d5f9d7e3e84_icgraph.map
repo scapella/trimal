@@ -1,0 +1,9 @@
+<map id="statistics::Gaps::calcCutPoint2ndSlope" name="statistics::Gaps::calcCutPoint2ndSlope">
+<area shape="rect" id="node2" href="$class_cleaner.html#aa57106470d2104a925b9396b8a9f33b3" title="Method that carries the gappyout approach. This methods calculates the slope in gaps distribution on ..." alt="" coords="235,5,395,32"/>
+<area shape="rect" id="node8" href="$class_cleaner.html#a6727a235afa29f08a50716f28fa5c8fc" title="Method to clean an alignment. It carries out strict and strictplus. The method: " alt="" coords="220,56,411,83"/>
+<area shape="rect" id="node3" href="$classtrim_al_manager.html#a69082911b30a1bd12395bb235bc18a34" title="Method to trim the alignment using automatic or semi&#45;automatic methods: " alt="" coords="459,31,689,57"/>
+<area shape="rect" id="node4" href="$classtrim_al_manager.html#adc529dd893ed4e9df6f3ddbd58776068" title="Core Method of the program. This is where almost all cleaning methods are called from. " alt="" coords="737,23,883,65"/>
+<area shape="rect" id="node5" href="$classtrim_al_manager.html#a7c641a1feff33d401b4ea5c82e989289" title="trimAlManager::innerPerform" alt="" coords="931,31,1119,57"/>
+<area shape="rect" id="node6" href="$classtrim_al_manager.html#abe8d2841455c644dc9c7d1294b82b00f" title="Method to perform the analysis if all checks have passed. " alt="" coords="1167,31,1325,57"/>
+<area shape="rect" id="node7" href="$trim_al_main_8cpp.html#a0ddf1224851353fc92bfbff6f499fa97" title="main" alt="" coords="1373,31,1424,57"/>
+</map>

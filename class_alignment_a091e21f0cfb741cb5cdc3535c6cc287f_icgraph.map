@@ -1,0 +1,8 @@
+<map id="Alignment::Alignment" name="Alignment::Alignment">
+<area shape="rect" id="node2" href="$class_alignment.html#a57cb9cad92f31ec56982a4191d2cbce4" title="Method to back translate a protein alignment using the sequences present on the current alignment..." alt="" coords="200,17,399,43"/>
+<area shape="rect" id="node7" href="$class_format_handling_1_1_format_manager.html#a6ca3a3864ce03fa917629d815df1f246" title="Function to divide an alignment into different alignments, each one with a sequence from the original..." alt="" coords="447,71,660,112"/>
+<area shape="rect" id="node3" href="$classtrim_al_manager.html#a8ed19b851162fa24a1da66f7e54099e3" title="trimAlManager::postprocess\l_alignment" alt="" coords="461,5,646,47"/>
+<area shape="rect" id="node4" href="$classtrim_al_manager.html#a7c641a1feff33d401b4ea5c82e989289" title="trimAlManager::innerPerform" alt="" coords="708,17,896,43"/>
+<area shape="rect" id="node5" href="$classtrim_al_manager.html#abe8d2841455c644dc9c7d1294b82b00f" title="Method to perform the analysis if all checks have passed. " alt="" coords="944,46,1103,73"/>
+<area shape="rect" id="node6" href="$trim_al_main_8cpp.html#a0ddf1224851353fc92bfbff6f499fa97" title="main" alt="" coords="1151,46,1201,73"/>
+</map>

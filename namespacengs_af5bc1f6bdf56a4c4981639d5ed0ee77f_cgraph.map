@@ -1,0 +1,9 @@
+<map id="ngs::readVCF" name="ngs::readVCF">
+<area shape="rect" id="node1" title=" " alt="" coords="5,64,108,91"/>
+<area shape="rect" id="node2" href="$namespacengs_1_1____internal.html#a1a450c661e168dfcc436e071e3e18558" title=" " alt="" coords="172,122,359,163"/>
+<area shape="rect" id="node6" href="$namespacengs_1_1____internal.html#a277f4eca63365e30aa0985b84eb19a05" title=" " alt="" coords="156,5,375,32"/>
+<area shape="rect" id="node7" href="$namespacengs_1_1____internal.html#a45f56cf53dc8050c6ac06bb9093de542" title=" " alt="" coords="168,57,363,98"/>
+<area shape="rect" id="node3" href="$classreporting_1_1report_manager.html#a6d122e673144584e0869bd33b8a5c1c6" title="Method to report an Error. &#160;It will be displayed if Level &#160;is equal or higher to VerboseLevel::ERROR." alt="" coords="441,57,603,98"/>
+<area shape="rect" id="node4" href="$namespacengs_1_1_i_u_p_a_c.html#a102a09d8741aa544b6354ced312a2a1d" title=" " alt="" coords="423,122,621,163"/>
+<area shape="rect" id="node5" href="$namespacengs_1_1_i_u_p_a_c.html#ac33770374cfa395b9280f707406e73d6" title=" " alt="" coords="423,188,621,215"/>
+</map>

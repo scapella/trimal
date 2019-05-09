@@ -1,0 +1,7 @@
+<map id="Alignment::getTranslationCDS" name="Alignment::getTranslationCDS">
+<area shape="rect" id="node1" title="Method to back translate a protein alignment using the sequences present on the current alignment...." alt="" coords="784,13,983,39"/>
+<area shape="rect" id="node2" href="$classtrim_al_manager.html#a8ed19b851162fa24a1da66f7e54099e3" title=" " alt="" coords="551,5,736,47"/>
+<area shape="rect" id="node3" href="$classtrim_al_manager.html#abe8d2841455c644dc9c7d1294b82b00f" title="Method to perform the analysis if all checks have passed." alt="" coords="104,13,263,39"/>
+<area shape="rect" id="node5" href="$classtrim_al_manager.html#ac5795f93b3a2b51bf5d8dddd63b89f73" title=" " alt="" coords="311,38,503,65"/>
+<area shape="rect" id="node4" href="$trim_al_main_8cpp.html#a0ddf1224851353fc92bfbff6f499fa97" title=" " alt="" coords="5,13,56,39"/>
+</map>

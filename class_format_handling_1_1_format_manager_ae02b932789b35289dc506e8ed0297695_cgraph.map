@@ -1,0 +1,5 @@
+<map id="FormatHandling::FormatManager::loadAlignment" name="FormatHandling::FormatManager::loadAlignment">
+<area shape="rect" id="node2" href="$class_format_handling_1_1_base_format_handler.html#a6186050eb30aec3f4fa7e1c834f2add1" title="Function to check if a file is in the implemented format. " alt="" coords="267,5,460,47"/>
+<area shape="rect" id="node3" href="$class_format_handling_1_1_base_format_handler.html#acb1e7d713993916bb7b7b8c8ebebb922" title="Function to load a file in the current format and return an alignment object. " alt="" coords="267,71,460,112"/>
+<area shape="rect" id="node4" href="$classreporting_1_1report_manager.html#abc8beece0a415330af73749d14fb5ccb" title="Method to report an Error. It will be displayed if Level &#160;is equal or higher to VerboseLevel::ERROR. " alt="" coords="282,136,445,177"/>
+</map>

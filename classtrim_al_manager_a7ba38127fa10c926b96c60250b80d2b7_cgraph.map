@@ -1,0 +1,12 @@
+<map id="trimAlManager::save_alignment" name="trimAlManager::save_alignment">
+<area shape="rect" id="node2" href="$classreporting_1_1report_manager.html#ab093ae2e909308ebb4118d6f6a03f5fd" title="Method to report an Error. It will be displayed if Level &#160;is equal or higher to VerboseLevel::ERROR. " alt="" coords="744,5,907,47"/>
+<area shape="rect" id="node3" href="$class_format_handling_1_1_format_manager.html#a084d6b423e40a6d53ab3f4413f3f9176" title="Function to save an alignment to a file. It searches among the available_states one that can write th..." alt="" coords="196,117,409,159"/>
+<area shape="rect" id="node4" href="$class_format_handling_1_1_format_manager.html#af8d1e7864bb2811199d26ff24a30440e" title="Function to save an alignment to a file. It searches among the available_states one that can write th..." alt="" coords="457,169,671,211"/>
+<area shape="rect" id="node5" href="$class_format_handling_1_1_format_manager.html#ac0a3cee8e52e9ef5c61188094dd50bf2" title="FormatHandling::FormatManager\l::getFormatFromToken" alt="" coords="719,71,932,112"/>
+<area shape="rect" id="node7" href="$class_format_handling_1_1_base_format_handler.html#a189a6503643fc83fb7bd466cc01262b2" title="Function to save a Alignment to a file. " alt="" coords="729,136,922,177"/>
+<area shape="rect" id="node8" href="$class_format_handling_1_1_format_manager.html#a04370e2eae3630aab799320268b70176" title="FormatHandling::FormatManager\l::replaceINtag" alt="" coords="719,201,932,243"/>
+<area shape="rect" id="node9" href="$namespaceutils.html#ab0cb109dc7e12b42abd4cba86f7d8e78" title="Function that replaces a substring with another substring in a string. It makes a copy of the origina..." alt="" coords="1021,238,1157,265"/>
+<area shape="rect" id="node10" href="$namespaceutils.html#a6000246220e801bf6b1e6a553d7af13a" title="Function that replaces a substring with another substring in a string. It does not make a copy of the..." alt="" coords="735,318,915,345"/>
+<area shape="rect" id="node11" href="$namespaceutils.html#ad13c1bc858488be55a200a4e94f8f1d1" title="Method to check the existance of a file. Works exactly as fileExists(std::string &amp; path)..." alt="" coords="771,369,879,395"/>
+<area shape="rect" id="node6" href="$class_format_handling_1_1_base_format_handler.html#a4635f6691269acf1f6280f9b984fd277" title="Function that recognizes acronyms of the format. " alt="" coords="980,71,1197,112"/>
+</map>

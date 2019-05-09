@@ -1,0 +1,5 @@
+<map id="FormatHandling::FormatManager::getFormatFromFile" name="FormatHandling::FormatManager::getFormatFromFile">
+<area shape="rect" id="node2" href="$class_format_handling_1_1_base_format_handler.html#a6186050eb30aec3f4fa7e1c834f2add1" title="Function to check if a file is in the implemented format. " alt="" coords="277,5,470,47"/>
+<area shape="rect" id="node3" href="$class_format_handling_1_1_format_manager.html#a0b032188aa2d883026e547ea665c9b45" title="FormatHandling::FormatManager\l::getNonEmptyFile" alt="" coords="267,71,480,112"/>
+<area shape="rect" id="node4" href="$classreporting_1_1report_manager.html#ab093ae2e909308ebb4118d6f6a03f5fd" title="Method to report an Error. It will be displayed if Level &#160;is equal or higher to VerboseLevel::ERROR. " alt="" coords="528,100,691,141"/>
+</map>

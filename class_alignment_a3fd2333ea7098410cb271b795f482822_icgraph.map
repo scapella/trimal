@@ -1,0 +1,6 @@
+<map id="Alignment::prepareCodingSequence" name="Alignment::prepareCodingSequence">
+<area shape="rect" id="node2" href="$classtrim_al_manager.html#a55f0bbc922fb6854118da00a5bfa0c1b" title="Method to check and prepare the coding sequence. " alt="" coords="225,5,433,47"/>
+<area shape="rect" id="node3" href="$classtrim_al_manager.html#a3f325b806727751394adb829d97b35f1" title="Method that checks dependencies between arguments. Take in mind that dependencies may be between mult..." alt="" coords="481,5,631,47"/>
+<area shape="rect" id="node4" href="$classtrim_al_manager.html#a748b08a1ec5cd214de804ed0d4234a6e" title="Method to process the information obtained by trimAlManager::parseArguments It checks for argument in..." alt="" coords="679,13,901,39"/>
+<area shape="rect" id="node5" href="$trim_al_main_8cpp.html#a0ddf1224851353fc92bfbff6f499fa97" title="main" alt="" coords="949,13,1000,39"/>
+</map>

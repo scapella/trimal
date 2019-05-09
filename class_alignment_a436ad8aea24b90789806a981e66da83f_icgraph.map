@@ -1,0 +1,9 @@
+<map id="Alignment::getSequenceNameOrder" name="Alignment::getSequenceNameOrder">
+<area shape="rect" id="node1" title="Method to map two sets of sequences, own and external. The method accepts a vector of names,..." alt="" coords="1047,39,1245,80"/>
+<area shape="rect" id="node2" href="$classstatistics_1_1_consistency.html#a35c4f5aab5ad2e8d4722f07b17b9dbd2" title="Method to compare a set of alignments to select the most consistent one respect the others...." alt="" coords="843,5,999,47"/>
+<area shape="rect" id="node7" href="$classstatistics_1_1_consistency.html#a12d0b624abec361767bd3a6001998f02" title="Method to obtain the consistency values vector for a given alignment against a set of alignments with..." alt="" coords="843,71,999,112"/>
+<area shape="rect" id="node3" href="$classstatistics_1_1_consistency.html#ae8679e43ec228926ac2844af133cc2d5" title="Method to compare a set of MSA, all containing the same sequences and residues. The number of residue..." alt="" coords="639,39,795,80"/>
+<area shape="rect" id="node4" href="$classtrim_al_manager.html#a12b7cef964ef258fe7621da44867c51f" title="Method to check if multiple files comparison has been set correctly. It also perform some calculation..." alt="" coords="361,46,591,73"/>
+<area shape="rect" id="node5" href="$classtrim_al_manager.html#af140d97b6071a83930818030ac74b641" title="Method to parse arguments into usable structure in trimal." alt="" coords="104,46,313,73"/>
+<area shape="rect" id="node6" href="$trim_al_main_8cpp.html#a0ddf1224851353fc92bfbff6f499fa97" title=" " alt="" coords="5,46,56,73"/>
+</map>

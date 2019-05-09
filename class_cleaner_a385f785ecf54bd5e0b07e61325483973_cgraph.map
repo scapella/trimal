@@ -1,0 +1,17 @@
+<map id="Cleaner::cleanCompareFile" name="Cleaner::cleanCompareFile">
+<area shape="rect" id="node2" href="$class_cleaner.html#a0e1e26d09055de52208ac74adf93b760" title="Method to clean an alignment. &#160;It removes sequences that fall behind a certain threshold. &#160;The function detects if it would clean too many sequences, and relaxes the threshold until we have enough sequences to achieve the given percentage desired to keep. &#160;To achieve this, the method starts in the middle of the sequence and, alternating sides, adds column one by one. " alt="" coords="233,163,409,204"/>
+<area shape="rect" id="node13" href="$namespaceutils.html#a13e9bd8b05840270eda57450710273c2" title="Float vector copying. " alt="" coords="267,229,376,255"/>
+<area shape="rect" id="node14" href="$namespaceutils.html#ac2368c54440c2ea34d009fc73ed0b400" title="Minimum of two numbers method. " alt="" coords="284,279,359,306"/>
+<area shape="rect" id="node15" href="$namespaceutils.html#a73f038c379c13d23e3220afaa14f9983" title="Quicksort sorting method. " alt="" coords="268,354,375,381"/>
+<area shape="rect" id="node3" href="$class_alignment.html#aeeee94970a445f32aa79646c249befef" title="Copy Constructor. &#160;&#160;The copy constructor does not make a copy of all structures present on the origin..." alt="" coords="485,78,632,105"/>
+<area shape="rect" id="node9" href="$class_cleaner.html#ada8ad076dd037f00ae3f4fd17762641f" title="Method that identifies and removes columns and sequences composed only by gaps. " alt="" coords="461,133,656,175"/>
+<area shape="rect" id="node11" href="$class_cleaner.html#a5620f6a511bc0ac844c71b2de3ae1fdb" title="Method to remove blocks of columns with no rejected residue smaller than a given size. " alt="" coords="457,199,660,226"/>
+<area shape="rect" id="node12" href="$namespaceutils.html#ad50731aeb3c8f79ed8372516210dfc9d" title="Round double to integer method. " alt="" coords="508,250,609,277"/>
+<area shape="rect" id="node4" href="$class_cleaner.html#afe42cb635ddd6bd968ae57e378deaac8" title="Copy Constructor &#45; Called by Alignment. " alt="" coords="729,19,849,46"/>
+<area shape="rect" id="node5" href="$classstatistics_1_1_manager.html#aee28602da015edb0880d59ce4c0f855d" title="statistics::Manager\l::Manager" alt="" coords="723,71,856,112"/>
+<area shape="rect" id="node6" href="$classstatistics_1_1_similarity.html#afecab92459785c7568511217969f6cde" title="statistics::Similarity\l::Similarity" alt="" coords="928,5,1065,47"/>
+<area shape="rect" id="node7" href="$classstatistics_1_1_consistency.html#ae39d2aae825d263ac8c3198782b824d2" title="Copy constructor. " alt="" coords="919,71,1075,112"/>
+<area shape="rect" id="node8" href="$classstatistics_1_1_gaps.html#a0233d71123523698b0bbf6fe6119b630" title="statistics::Gaps::Gaps" alt="" coords="920,137,1073,163"/>
+<area shape="rect" id="node10" href="$classreporting_1_1report_manager.html#a75a240a78f31ba479892a9a0f53996fa" title="Method to report a Warning. &#160;It will be displayed if Level &#160;is equal or higher to VerboseLevel::WARNI..." alt="" coords="708,136,871,177"/>
+<area shape="rect" id="node16" href="$namespaceutils.html#a3377ecde55631d1bbc4956e5923b7469" title="Swapping elements method. " alt="" coords="516,354,601,381"/>
+</map>

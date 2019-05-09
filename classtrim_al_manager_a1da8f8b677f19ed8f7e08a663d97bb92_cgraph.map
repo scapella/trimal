@@ -1,0 +1,30 @@
+<map id="trimAlManager::output_reports" name="trimAlManager::output_reports">
+<area shape="rect" id="node2" href="$class_alignment.html#a3754dfadea173918f5e85b9eb4c3ad8a" title="Method to report the trimming results in HTML. Outputs an HTML file that shows visually what has been..." alt="" coords="204,199,440,225"/>
+<area shape="rect" id="node9" href="$classreporting_1_1report_manager.html#a6d122e673144584e0869bd33b8a5c1c6" title="Method to report an Error. &#160;It will be displayed if Level &#160;is equal or higher to VerboseLevel::ERROR..." alt="" coords="1589,201,1752,242"/>
+<area shape="rect" id="node27" href="$class_alignment.html#ac4196c026e0f482eaccf9976f82f72e3" title="Method to report the trimming results in SVG. Outputs a SVG file that shows visually what has been do..." alt="" coords="208,249,436,276"/>
+<area shape="rect" id="node28" href="$namespaceutils.html#ab0cb109dc7e12b42abd4cba86f7d8e78" title="Function that replaces a substring with another substring in a string. It makes a copy of the origina..." alt="" coords="254,300,390,327"/>
+<area shape="rect" id="node29" href="$namespaceutils.html#a6000246220e801bf6b1e6a553d7af13a" title="Function that replaces a substring with another substring in a string. It does not make a copy of the..." alt="" coords="232,351,412,377"/>
+<area shape="rect" id="node3" href="$namespaceutils.html#abdd283983860dbf73351209d1e8ab87f" title="Checks the color that has to be used on the output report. " alt="" coords="503,125,645,152"/>
+<area shape="rect" id="node6" href="$classstatistics_1_1_gaps.html#ab5b60db326475f8adc68b130e22b3963" title="statistics::Gaps::getGaps\lWindow" alt="" coords="1116,610,1287,651"/>
+<area shape="rect" id="node12" href="$classstatistics_1_1_similarity.html#a1b65c85328f09fa0637365d11fb386b4" title="This methods returns a pointer to conservationWindow&#39;s vector. " alt="" coords="488,242,660,283"/>
+<area shape="rect" id="node23" href="$classstatistics_1_1_consistency.html#ad3a0a265cb9460cd4633b027fe2437c9" title="Stat Getter &#160;. " alt="" coords="496,177,652,218"/>
+<area shape="rect" id="node26" href="$namespaceutils.html#a40640e1942f00797e9fe8284e8fbdb14" title="Maximum of two numbers method. " alt="" coords="535,359,613,385"/>
+<area shape="rect" id="node4" href="$namespaceutils.html#ae92af4829525774d9a4ab289d4265326" title="Method to check for a pattern in a string. &#160;The method will check, character by character of the firs..." alt="" coords="921,93,1059,120"/>
+<area shape="rect" id="node5" href="$namespaceutils.html#a6286fde6f4dd58ef0cfa9d55341b72f8" title="utils::toUpper" alt="" coords="1807,360,1907,387"/>
+<area shape="rect" id="node7" href="$classstatistics_1_1_gaps.html#ad812a924cf5e3f900aad3ed4a9664300" title="statistics::Gaps::isDefined\lWindow" alt="" coords="1346,630,1523,671"/>
+<area shape="rect" id="node8" href="$classstatistics_1_1_gaps.html#aee36b772767467cdba2061df2305e85d" title="statistics::Gaps::applyWindow" alt="" coords="1335,528,1535,555"/>
+<area shape="rect" id="node10" href="$namespaceutils.html#aac322cd1761fddedec8a5792e358eb32" title="Vector initialization. " alt="" coords="1620,477,1721,504"/>
+<area shape="rect" id="node11" href="$namespaceutils.html#ad50731aeb3c8f79ed8372516210dfc9d" title="Round double to integer method. " alt="" coords="1620,528,1721,555"/>
+<area shape="rect" id="node13" href="$classstatistics_1_1_similarity.html#a4446bf070a858952dac45f5705d16780" title="Returns if a windows size value has been defined or not. " alt="" coords="717,326,855,367"/>
+<area shape="rect" id="node14" href="$classstatistics_1_1_similarity.html#adcb5627b9704850e85433fc40c19db17" title="Allows us compute the conservationWindow&#39;s values. " alt="" coords="717,261,855,302"/>
+<area shape="rect" id="node15" href="$classstatistics_1_1_similarity.html#ae69ec0e79912ae23c8cfe97358c4794d" title="Method to calculate the similarity values of a alignment matrix. " alt="" coords="921,377,1059,418"/>
+<area shape="rect" id="node16" href="$classstatistics_1_1_similarity.html#a75bd235b3207235eefa7b52dff063c76" title="Computes the matrix identity between alignment&#39;s columns. " alt="" coords="1121,493,1282,534"/>
+<area shape="rect" id="node17" href="$class_alignment.html#a3f8f2eafd37c9b5bc275b9889a2de96a" title="Alignment type getter. &#160;&#160;See SequenceTypes. " alt="" coords="1338,579,1531,605"/>
+<area shape="rect" id="node19" href="$classstatistics_1_1_manager.html#a1969a416d3020d25daa56de6c5e305db" title="Method to handle gap stat calculation It checks if the gaps submodule has been created, otherwise, creates it. " alt="" coords="1133,427,1270,469"/>
+<area shape="rect" id="node22" href="$classstatistics_1_1similarity_matrix.html#a0cdb3ed14678b442824e84e6385e8f84" title="Method to get the similarity distance between two residues, A and B Characters provided must be both ..." alt="" coords="1116,310,1287,351"/>
+<area shape="rect" id="node18" href="$namespaceutils.html#aab52f9515717f06cafd6ab7fe2ebdcef" title="Checks an alignment type. " alt="" coords="1583,579,1759,605"/>
+<area shape="rect" id="node20" href="$classstatistics_1_1_gaps.html#a2f1d71bafa5e44e5f2c96771cf2a26ed" title="statistics::Gaps::Gaps" alt="" coords="1358,477,1511,504"/>
+<area shape="rect" id="node21" href="$classstatistics_1_1_gaps.html#aa3526494d5100e062daa4afba755d0b1" title="statistics::Gaps::Calculate\lVectors" alt="" coords="1346,411,1523,453"/>
+<area shape="rect" id="node24" href="$classstatistics_1_1_consistency.html#af2c3e79d22ab32c549e3e41cd56afe72" title="Method to check wether or not a window has been applied. " alt="" coords="708,195,864,237"/>
+<area shape="rect" id="node25" href="$classstatistics_1_1_consistency.html#a6fe619f559c7271eedd869581684f479" title="Applies a new window to the alignment. " alt="" coords="912,145,1068,186"/>
+</map>

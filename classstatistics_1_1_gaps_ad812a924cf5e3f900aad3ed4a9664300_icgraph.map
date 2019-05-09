@@ -1,0 +1,31 @@
+<map id="statistics::Gaps::isDefinedWindow" name="statistics::Gaps::isDefinedWindow">
+<area shape="rect" id="node2" href="$classstatistics_1_1_gaps.html#ab5b60db326475f8adc68b130e22b3963" title="statistics::Gaps::getGaps\lWindow" alt="" coords="231,605,401,646"/>
+<area shape="rect" id="node3" href="$class_alignment.html#a3754dfadea173918f5e85b9eb4c3ad8a" title="Method to report the trimming results in HTML. Outputs an HTML file that shows visually what has been..." alt="" coords="1139,5,1375,32"/>
+<area shape="rect" id="node8" href="$class_alignment.html#ac4196c026e0f482eaccf9976f82f72e3" title="Method to report the trimming results in SVG. Outputs a SVG file that shows visually what has been do..." alt="" coords="1143,56,1371,83"/>
+<area shape="rect" id="node9" href="$classstatistics_1_1_similarity.html#ae69ec0e79912ae23c8cfe97358c4794d" title="Method to calculate the similarity values of a alignment matrix. " alt="" coords="478,463,615,505"/>
+<area shape="rect" id="node14" href="$class_cleaner.html#a4718e31c0183b5a98751d77479faacf0" title="Method to trim an alignment based on the similarity and gaps distribution values. ..." alt="" coords="1485,376,1591,403"/>
+<area shape="rect" id="node15" href="$class_cleaner.html#a6727a235afa29f08a50716f28fa5c8fc" title="Method to clean an alignment. It carries out strict and strictplus. The method: " alt="" coords="1161,587,1352,613"/>
+<area shape="rect" id="node22" href="$class_alignment.html#a724218d5e7d168974d9abcafcde632a1" title="Alignment::statSVG" alt="" coords="1187,107,1326,133"/>
+<area shape="rect" id="node25" href="$class_cleaner.html#aa57106470d2104a925b9396b8a9f33b3" title="Method that carries the gappyout approach. This methods calculates the slope in gaps distribution on ..." alt="" coords="692,739,852,765"/>
+<area shape="rect" id="node26" href="$class_cleaner.html#af7c9e1a177424168fa4214aca9ebd8e2" title="Method to trim an alignment based on the gap distribution values. Column blocks that don&#39;t have a min..." alt="" coords="1188,688,1325,715"/>
+<area shape="rect" id="node27" href="$class_cleaner.html#a3af7bde2142886d6d723c95694b7b9ba" title="Method to remove columns composed only by gaps This method is specially useful when we remove missali..." alt="" coords="1172,789,1341,816"/>
+<area shape="rect" id="node29" href="$class_cleaner.html#ab7f5b746b97697181f4cd06063cbb49a" title="Method to detect right and left borders. Borders are the first column found with no gaps..." alt="" coords="449,844,644,871"/>
+<area shape="rect" id="node4" href="$classtrim_al_manager.html#a1da8f8b677f19ed8f7e08a663d97bb92" title="trimAlManager::output\l_reports" alt="" coords="1463,49,1613,90"/>
+<area shape="rect" id="node5" href="$classtrim_al_manager.html#a7c641a1feff33d401b4ea5c82e989289" title="trimAlManager::innerPerform" alt="" coords="2156,472,2344,499"/>
+<area shape="rect" id="node6" href="$classtrim_al_manager.html#abe8d2841455c644dc9c7d1294b82b00f" title="Method to perform the analysis if all checks have passed. " alt="" coords="2392,472,2551,499"/>
+<area shape="rect" id="node7" href="$trim_al_main_8cpp.html#a0ddf1224851353fc92bfbff6f499fa97" title="main" alt="" coords="2599,472,2649,499"/>
+<area shape="rect" id="node10" href="$classstatistics_1_1_manager.html#a92505ca5aedc5b45c4300a0e8a7d1e17" title="Method to handle similarity stat calculation It checks if the similarity submodule has been created..." alt="" coords="900,434,1091,475"/>
+<area shape="rect" id="node20" href="$classstatistics_1_1_similarity.html#adcb5627b9704850e85433fc40c19db17" title="Allows us compute the conservationWindow&#39;s values. " alt="" coords="703,405,841,446"/>
+<area shape="rect" id="node11" href="$class_cleaner.html#a9cdbd6ebf78a284dd065b31319795b0c" title="Method to trim an alignment based on the similarity distribution values. " alt="" coords="1447,237,1629,264"/>
+<area shape="rect" id="node17" href="$classstatistics_1_1_manager.html#a080c687f8f355900511485eeec32a659" title="Wrapper to Statistics::Similarity::printConservationAcl() It calls to calculateConservationStats() to..." alt="" coords="1163,427,1350,483"/>
+<area shape="rect" id="node19" href="$classstatistics_1_1_manager.html#aa20cfb477826035386ea988e3706b09a" title="Wrapper to Statistics::Similarity::printGapsTotal() It calls to calculateConservationStats() to make ..." alt="" coords="1163,507,1350,563"/>
+<area shape="rect" id="node12" href="$classtrim_al_manager.html#aebfd21b0435302f0e4fc45a068d1b6ee" title="Method to trim the alignment using non automatic methods: " alt="" coords="1707,523,1909,565"/>
+<area shape="rect" id="node13" href="$classtrim_al_manager.html#adc529dd893ed4e9df6f3ddbd58776068" title="Core Method of the program. This is where almost all cleaning methods are called from. " alt="" coords="1963,585,2108,626"/>
+<area shape="rect" id="node16" href="$classtrim_al_manager.html#a69082911b30a1bd12395bb235bc18a34" title="Method to trim the alignment using automatic or semi&#45;automatic methods: " alt="" coords="1423,688,1653,715"/>
+<area shape="rect" id="node18" href="$classtrim_al_manager.html#afc48b86f5ae35b9a5e721b65c58bf610" title="Method to print statistics requested. " alt="" coords="1469,465,1607,506"/>
+<area shape="rect" id="node21" href="$classstatistics_1_1_similarity.html#a1b65c85328f09fa0637365d11fb386b4" title="This methods returns a pointer to conservationWindow&#39;s vector. " alt="" coords="909,253,1081,294"/>
+<area shape="rect" id="node24" href="$classstatistics_1_1_similarity.html#a26f430acb8a3240977665de9a9ea875a" title="Computes and selects the cut point values based on similarity&#39;s values. " alt="" coords="1188,259,1325,301"/>
+<area shape="rect" id="node23" href="$classtrim_al_manager.html#a63d5bec0938516a2129ccb04276b93d9" title="trimAlManager::svg\l_stats_out" alt="" coords="1968,262,2103,303"/>
+<area shape="rect" id="node28" href="$classtrim_al_manager.html#a10536f715945a1a45f1df33f7cedc81e" title="Method to trim or reduce the number of sequences in an alignment. It performs one or none of the foll..." alt="" coords="1701,675,1915,701"/>
+<area shape="rect" id="node30" href="$classtrim_al_manager.html#a8ed19b851162fa24a1da66f7e54099e3" title="trimAlManager::postprocess\l_alignment" alt="" coords="903,841,1088,882"/>
+</map>

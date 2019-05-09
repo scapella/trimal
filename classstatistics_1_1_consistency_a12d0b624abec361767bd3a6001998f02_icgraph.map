@@ -1,0 +1,6 @@
+<map id="statistics::Consistency::forceComparison" name="statistics::Consistency::forceComparison">
+<area shape="rect" id="node2" href="$classstatistics_1_1_consistency.html#a8f7ddf54c5be583916b983ede82d5b88" title="Method to compare a set of MSA, all containing the same sequences and residues. The number of residue..." alt="" coords="209,5,365,47"/>
+<area shape="rect" id="node3" href="$classtrim_al_manager.html#a12b7cef964ef258fe7621da44867c51f" title="Method to check if multiple files comparison has been set correctly. It also perform some calculation..." alt="" coords="413,13,643,39"/>
+<area shape="rect" id="node4" href="$classtrim_al_manager.html#af3b0625b6bcc6df5978e63530a5956e6" title="Method to parse arguments into usable structure in trimal. " alt="" coords="691,13,900,39"/>
+<area shape="rect" id="node5" href="$trim_al_main_8cpp.html#a0ddf1224851353fc92bfbff6f499fa97" title="main" alt="" coords="948,13,999,39"/>
+</map>
