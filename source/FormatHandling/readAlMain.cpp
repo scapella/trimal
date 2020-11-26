@@ -402,7 +402,7 @@ int main(int argc, char *argv[])
                         std::cout << "## Input file datatype\tnucleotides:rna_degenerate_codes\n";
                     else if (alignment->getAlignmentType() == SequenceTypes::AA)
                         std::cout << "## Input file datatype\tamino-acids\n";
-                    else if (alignment->getAlignmentType() == SequenceTypes::AA | SequenceTypes::DEG)
+                    else if (alignment->getAlignmentType() == (SequenceTypes::AA | SequenceTypes::DEG))
                         std::cout << "## Input file datatype\tamino-acids_degenerate_codes\n";
                     else
                         std::cout << "## Input file datatype\tunknown\n";
